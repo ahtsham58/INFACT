@@ -1,0 +1,1384 @@
+CONVERSATION:1
+SEEKER: <s> Hello, </s> 
+GROUND TRUTH: <s> How are you today... What kind of movies are you looking for </s> 
+hi , how are you ?
+SEEKER: <s> am looking for a movie a lot like "Braveheart (1995)" do you have any suggestions? </s> 
+GROUND TRUTH: <s> Well one that I found to be quite a bit like it was "The Patriot  (2000)" </s> 
+have you seen "Troy  (2004)" ?
+SEEKER: <s> That is a great movie! I liked "The Patriot  (2000)" a lot, I love how Mel Gibson acts, do you have other suggestions? </s> 
+GROUND TRUTH: <s> Well then you really might like "We Were Soldiers (2002)" One of my favorite war like movies though has to be "Pearl Harbor  (2001)" I know it is quite different but still good </s> 
+"Troy  (2004)" is a good one
+SEEKER: <s> Who is the star actor of that movie? </s> 
+GROUND TRUTH: <s> in "We Were Soldiers (2002)" it is Mel Gibson </s> 
+i have not seen that one . i will have to check it out .
+SEEKER: <s> I liked "Pearl Harbor  (2001)"  a lot liked the actors and the plot t made me cry </s> 
+GROUND TRUTH: <s> yeah makes me cry everytime another good one is "Saving Private Ryan (1998)" </s> 
+i have n't seen that one . i will have to check it out
+SEEKER: <s> and ok I think ill give "We Were Soldiers (2002)" a shot </s> 
+GROUND TRUTH: <s> it is really good hope you like it have a great day </s> 
+i hope you enjoy it ! have a great day !
+CONVERSATION:2
+GROUND TRUTH: <s> hello what kind of movies are you interested in? </s> 
+hello !
+SEEKER: <s> hi there i like action movies stuff like "The Avengers  (2012)" or my personal favorite movie is "Iron Man  (2008)" i wish they would make another *( </s> 
+GROUND TRUTH: <s> have you seen "The Incredible Hulk  (2008)" or "Guardians of the Galaxy  (2014)" </s> 
+have you seen "Thor: Ragnarok (2017)" ?
+SEEKER: <s> oh yeah saw them both when they first came out </s> 
+GROUND TRUTH: <s> oh ok </s> 
+i have n't seen that one yet . i will have
+SEEKER: <s> I'm looking for something new though </s> 
+GROUND TRUTH: <s> have you seen "Doctor Strange  (2016)" </s> 
+"Thor: Ragnarok (2017)" is a good one
+SEEKER: <s> I don't think so tell me about it </s> 
+GROUND TRUTH: <s> doctor strange is basically iron man but with magic he is a witty man with no powers he ventures to land and releases his super hero potential </s> 
+it is a great movie about a guy who is a young man who is a crazy guy who is a guy who is a guy who is
+SEEKER: <s> i think i have seen part of it but not the whole thing you know I will check it out for sure thanks! </s> 
+GROUND TRUTH: <s> no problem goodbye </s> 
+ok bye
+SEEKER: <s> goodbye! </s> 
+CONVERSATION:3
+GROUND TRUTH: <s> Hi! What kind of movies do you like? </s> 
+hello !
+SEEKER: <s> can you recommend any type of movie i have no preferenc e </s> 
+GROUND TRUTH: <s> How about "A Wrinkle in Time "? </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> i havent seen that one, is it a family movie? </s> 
+GROUND TRUTH: <s> Yes, it's a story of a family helping each other through a interesting and difficult time. The book was good. </s> 
+it is a good one .
+SEEKER: <s> sounds good anymore what about something action packed </s> 
+GROUND TRUTH: <s> Also "Jumanji  (2017)"? </s> 
+"Gnomeo & Juliet: Sherlock Gnomes (2018)" is a good one too .
+SEEKER: <s> like "Taken  (2008)" or "The Sixth Sense (1999)" </s> 
+GROUND TRUTH: <s> Or "The Matrix (1999)"? </s> 
+"Black Panther (2018)" is a good one too .
+SEEKER: <s> i havent seen "Jumanji  (2017)" the "The Matrix (1999)" was really good and action packed </s> 
+GROUND TRUTH: <s> Ok, goodbye. </s> 
+i have n't seen that one . i will have to check it out .
+CONVERSATION:4
+GROUND TRUTH: <s> hello, how are you? </s> 
+hello !
+SEEKER: <s> Hi can you recommend a fantasy movie? </s> 
+GROUND TRUTH: <s> sure, one sec How about "The Shape of Water  (2017)" I really enjoyed it. </s> 
+i 'm good , how are you ?
+SEEKER: <s> something other than "The Lord of the Rings: The Fellowship of the Ring (2001)" I loved "Pan's Labyrinth (2006)" "The Shape of Water  (2017)" is like at the top of my list right now I havent seen it yet but I want to </s> 
+GROUND TRUTH: <s> I haven't seen that one, I did see "Geostorm (2017)" it was amazing </s> 
+it is a good one .
+SEEKER: <s> You haven't Seen "Pan's Labyrinth (2006)" Well if you liked "The Shape of Water  (2017)" you should check it out </s> 
+GROUND TRUTH: <s> no I have not, I'll have to add it to my list </s> 
+i have n't seen that one yet , but i will have to check it
+SEEKER: <s> I'll pass on "Geostorm (2017)" I hate disaster movies Any other ideas? </s> 
+GROUND TRUTH: <s> yes, "Thelma " it was really good </s> 
+i have n't seen that one . i will have to check it out .
+SEEKER: <s> is that a fantasy movie? </s> 
+GROUND TRUTH: <s> yes it is </s> 
+yes , it was good .
+SEEKER: <s> hmm never heard of it ill have to check it out </s> 
+GROUND TRUTH: <s> you should give it a chance, its really good, a little hard to follow at first, just need to pay close attention at the beginning </s> 
+it is a great movie , it is a great movie
+SEEKER: <s> I have a BA in film theory </s> 
+GROUND TRUTH: <s> awesome! </s> 
+i think you 'll like it
+SEEKER: <s> Im sure Ill be able to follow along lol </s> 
+GROUND TRUTH: <s> lol I'm sure you will haha </s> 
+i 'm not sure if it is a great movie , i 'm sure you will like it
+SEEKER: <s> Thanks for the recommendation </s> 
+GROUND TRUTH: <s> no problem, I hoped I helped! have a great day. </s> 
+no problem , have a good day
+SEEKER: <s> goodbye </s> 
+GROUND TRUTH: <s> goodbye</s>
+* 
+CONVERSATION:5
+GROUND TRUTH: <s> hey there what movies do you like </s> 
+hello !
+SEEKER: <s> hello i am a HUGE horror buff!! wehat can you offer me? I love the classic hortrors like "A Nightmare on Elm Street (1984)" or "Halloween  (1978)" </s> 
+GROUND TRUTH: <s> awesome! those are def classics i love "The Texas Chainsaw Massacre 2 (1986)" </s> 
+i have n't seen that one . i heard "The Shining  (1980)"
+SEEKER: <s> "The Blob (1958)" is my fav of all time that is a great one too </s> 
+GROUND TRUTH: <s> oh yeah for sure! </s> 
+i also like "The Shining  (1980)"
+SEEKER: <s> any more suggestions? </s> 
+GROUND TRUTH: <s> i love the classic "Psycho  (1960)" </s> 
+"The Shining  (1980)" is a classic
+SEEKER: <s> oh yeah, great choice! i forgot that one and "Night of the Living Dead " </s> 
+GROUND TRUTH: <s> ive always been a big "Saw  (2004)" fan as well </s> 
+"The Shining  (1980)"
+SEEKER: <s> YES!! Jigsaw is my Hero  </s> 
+GROUND TRUTH: <s> hahah thats awesome. hard to find people that appreciate that movie </s> 
+i hope you enjoy the suggestions ! have a great night !
+SEEKER: <s> well, he's not a real killer if he didn't kill anybody, right? </s> 
+GROUND TRUTH: <s> yup exactly haha </s> 
+i hope you enjoy the movies !
+SEEKER: <s> hahaha </s> 
+GROUND TRUTH: <s> hope you liked the suggestions! good night :) </s> 
+yeah , i hope you enjoy the suggestions !
+CONVERSATION:6
+SEEKER: <s> Hi, I'm looking for a good comedy Something like "Airplane! (1980)" </s> 
+GROUND TRUTH: <s> HI </s> 
+hi ,
+SEEKER: <s> Or "Caddyshack (1980)" Or "Ghostbusters (1984)" </s> 
+GROUND TRUTH: <s> How about "Dumb and Dumber (1994)" and the newer one "Dumb and Dumber To (2014)" </s> 
+have you seen "Groundhog Day  (1993)" ?
+SEEKER: <s> I think those sound like some good one I'll have to check them out </s> 
+GROUND TRUTH: <s> Ok great! </s> 
+"Napoleon Dynamite (2004)"
+SEEKER: <s> Have a great day </s> 
+CONVERSATION:7
+SEEKER: <s> Hello! </s> 
+GROUND TRUTH: <s> Hey there Have you seen any good films lately </s> 
+hello !
+SEEKER: <s> I have I recently just watched "National Treasure  (2004)" for the first time a few days ago Great movie </s> 
+GROUND TRUTH: <s> Tell me all about them I love Nicolas Cage Or I used too </s> 
+i have n't seen that one . what kind of movies do you like ?
+SEEKER: <s> I also watched "Why Him (2016)" a few months ago. Very funny movie </s> 
+GROUND TRUTH: <s> He was good in "Bad Lieutenant: Port of Call New Orleans (2009)" </s> 
+i have n't seen that one yet . i will have to check it out .
+SEEKER: <s> Never seen that one </s> 
+GROUND TRUTH: <s> Check it out </s> 
+i have n't seen that one yet . i will have to check it out .
+SEEKER: <s> I think he does a pretty good job acting. I don't mind his movies I definitely will Right now i'm stuck watching "High School Musical " and "Camp Rock" . My daughter loves them </s> 
+GROUND TRUTH: <s> Yeah. </s> 
+i also liked "Gone in 60 Seconds  (2000)"
+SEEKER: <s> It was nice chatting with you. Thanks for the suggestion </s> 
+GROUND TRUTH: <s> Thanks for these recommendations. Bye. </s> 
+i hope i helped ! have a great day !
+CONVERSATION:8
+SEEKER: <s> Hello! I am looking for a good horror flick Something along the lines of "It Follows (2014)" "Get Out (2017)" </s> 
+GROUND TRUTH: <s> Great Do you like horror/thriller combinaiton or mainly horror? </s> 
+have you seen "It  (2017)" ?
+SEEKER: <s> I like combinations sometimes </s> 
+GROUND TRUTH: <s> How about "The Blair Witch Project (1999)" it was pretty cray </s> 
+have you seen "It  (2017)" ?
+SEEKER: <s> Ah yes, seen that one and loved it </s> 
+GROUND TRUTH: <s> Or maybe a vintage movie like "Rosemary's Baby  (1968)" That's one's a bit out there. </s> 
+"It  (2017)" was a good one .
+SEEKER: <s> I've actually never seen that one I know its a classic, so I will check it out for sure Thank you! </s> 
+GROUND TRUTH: <s> I also really enjoyed "The Shining  (1980)" and it had me on the edge of my seat. </s> 
+you 're welcome !
+SEEKER: <s> Ah yes, that's a great one </s> 
+GROUND TRUTH: <s> No problem. Glad I could help. Goodbye. </s> 
+i hope you enjoy the films ! have a great day !
+SEEKER: <s> Good bye </s> 
+CONVERSATION:9
+GROUND TRUTH: <s> Hey there! </s> 
+hello !
+SEEKER: <s> hi could you help me find a good drama or thriller? i like stuff like "A Perfect Murder (1998)" i dont like stuff like "Twilight  (2008)" </s> 
+GROUND TRUTH: <s> lol I don't like "Twilight  (2008)" either </s> 
+have you seen "Shutter Island  (2010)" ?
+SEEKER: <s> do you have any suggestions? my timer has less than 4 minutes remaining </s> 
+GROUND TRUTH: <s> What about "Fatal Attraction (1987)" ? Michael Douglas is pretty good. </s> 
+"Shutter Island  (2010)" is a good one
+SEEKER: <s> I did like that one a lot! I like Mchael Douglas. Maybe one more please? </s> 
+GROUND TRUTH: <s> "Don't Say a Word (2001)" also starring michael </s> 
+"Gone Girl  (2014)" is also a good one
+SEEKER: <s> I havent seen that. I thinkit is with Britney Murphy right? </s> 
+GROUND TRUTH: <s> That's the one. :) </s> 
+it is about a guy who has a guy who kills
+SEEKER: <s> I like her too so i will try that one. thank you! have a good one. </s> 
+CONVERSATION:10
+SEEKER: <s> Hey there. </s> 
+GROUND TRUTH: <s> hi I recommend "The Shining  (1980)" what do you think? </s> 
+hi there ! what kind of movies are you looking
+SEEKER: <s> One of my favorite movies is "The Fountain (2006)" I love "The Shining  (1980)" </s> 
+GROUND TRUTH: <s> That's cool -- "The Fountain (2006)" has a good concept, I think </s> 
+i have n't seen that one .
+SEEKER: <s> I'm a big fan of Rachel Weisz. </s> 
+GROUND TRUTH: <s> "The Mummy  (2017)" is always good </s> 
+"Black Swan  (2010)" is a good one too
+SEEKER: <s> Anything she's in I'll watch. </s> 
+GROUND TRUTH: <s> sorry.. "The Mummy  (1999)" .. </s> 
+"Mission: Impossible  (1996)" is a good one too
+SEEKER: <s> I like the original "The Mummy  (1999)" </s> 
+GROUND TRUTH: <s> agreed </s> 
+i think you would like "Mission: Impossible  (1996)"
+SEEKER: <s> Is she in anything upcoming? </s> 
+GROUND TRUTH: <s> i would hope not, she's better off just being stuck in the 1999 movie :D </s> 
+i think you would like "Mission: Impossible  (1996)"
+SEEKER: <s> I liked the "The Constant Gardener  (2005)" </s> 
+GROUND TRUTH: <s> shes in "Disobedience  (2003)" .. but its the same title in a 2018 movie so yeah, not that one </s> 
+i hope you enjoy the movies .
+SEEKER: <s> I'll check out "Disobedience  (2003)" </s> 
+GROUND TRUTH: <s> ok sounds good, fun talkin </s> 
+i hope you enjoy the movies !
+SEEKER: <s> bye </s> 
+CONVERSATION:11
+SEEKER: <s> Hello </s> 
+GROUND TRUTH: <s> Hi What kinds of movies do you like? </s> 
+hi , what kind of movies do you like ?
+SEEKER: <s> I like horror "The Exorcist  (1973)" is my favorite </s> 
+GROUND TRUTH: <s> Me too, did you see "It  (2017)" </s> 
+have you seen "The Shining  (1980)" ?
+SEEKER: <s> I did not. I don't think it is good </s> 
+GROUND TRUTH: <s> I love "The Exorcist  (1973)" It's a classic I like comedies too, i love "Caddyshack (1980)" </s> 
+i like "The Shining  (1980)"
+SEEKER: <s> It is. I am a fan of horror movies. That is my favorite genre. </s> 
+GROUND TRUTH: <s> What is another horror movie you enjoy? </s> 
+i like "The Shining  (1980)" too .
+SEEKER: <s> I love "The Shining  (1980)" </s> 
+GROUND TRUTH: <s> "The Shining  (1980)" is another classic. you have great taste </s> 
+i like "Saw  (2004)"
+SEEKER: <s> I like Caddyshack a lot too Thanks. Thanks for the recommendations. </s> 
+GROUND TRUTH: <s> Thank you too, i hope you have a great day </s> 
+you 're welcome . have a great day .
+SEEKER: <s> You too. Bye </s> 
+CONVERSATION:12
+SEEKER: <s> Hi, can you recommend a good Resse Witherspoon movie. Any genre will do. </s> 
+GROUND TRUTH: <s> Yes I can "Walk the Line (2005)" is a good one "Sweet Home Alabama  (2002)" is another good choice </s> 
+sure , have you seen "Black Panther (2018)"
+SEEKER: <s> Is that the biopic ? </s> 
+GROUND TRUTH: <s> It is a biopic "Four Christmases (2008)" is a comedy with her in it Last recommendation for these movies is "Legally Blonde (2001)" </s> 
+"The Notebook (2013)" is a good one
+SEEKER: <s> I have heard good things about "Walk the Line (2005)" </s> 
+GROUND TRUTH: <s> That movie is famous and a classic </s> 
+"Pitch Perfect (2012)" is a good one
+SEEKER: <s> I never really went in for "Legally Blonde (2001)" I forgot she even did that one. </s> 
+GROUND TRUTH: <s> Its not for everyone Well I hope I helped </s> 
+it is a good one
+SEEKER: <s> it's not a bad film, it's just it annoys me when girls are ditzy in films. Sure did thanks. Have a good day! </s> 
+CONVERSATION:13
+GROUND TRUTH: <s> Hi, how are you? </s> 
+hello !
+SEEKER: <s> Hi there!  I'm looking for a good romantic comedy - not too ditzy, though. </s> 
+GROUND TRUTH: <s> "Love Actually (2003)" is a good one! </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> I haven't seen that one.  What's it about? </s> 
+GROUND TRUTH: <s> It follows 9 different couples and their relationships before christmas It's good. So is "The Proposal  (2009)" </s> 
+it 's about a boy who 's a guy who falls in love with a man who 's
+SEEKER: <s> Who's in it? Ah.  I haven't seen that one either. </s> 
+GROUND TRUTH: <s> Have you seen "27 Dresses (2008)" </s> 
+it 's a romantic comedy . it 's a romantic comedy .
+SEEKER: <s> No, I haven't.  Who's in that one? </s> 
+GROUND TRUTH: <s> Katherine Heigl </s> 
+it 's a good one . it 's a romantic comedy .
+SEEKER: <s> Hmmm.  I don't love her...  Doesn't Woody Allen have a new movie out? </s> 
+GROUND TRUTH: <s> Yes! It's called "Wonder Wheel (2017)" </s> 
+it 's a good one . it 's a good one .
+SEEKER: <s> How are the ratings on that one? I mean the reviews </s> 
+GROUND TRUTH: <s> 3/5 They aren't all too great </s> 
+i have n't seen that one . i 'll have to check it out .
+SEEKER: <s> Okay. Well, I'm satisfied with these suggestions... Thanks! </s> 
+GROUND TRUTH: <s> What's a movie that you liked? Don't go </s> 
+you 're welcome ! have a good night !
+SEEKER: <s> Okay.  Let's see.  I liked Four Weddings and a Funeral. </s> 
+GROUND TRUTH: <s> It's not done! Tag it! "Four Weddings and a Funeral (1994)" There we go </s> 
+okay , i hope you enjoy it !
+CONVERSATION:14
+SEEKER: <s> Hello! How are you today? </s> 
+GROUND TRUTH: <s> have you seen "The Last Contract (1998)" </s> 
+hi , i 'm good
+SEEKER: <s> I haven't. I prefer to watch movies with my children. Do you have any suggestions for a family night movie? </s> 
+GROUND TRUTH: <s> "Madagascar  (2005)"  is a good choice </s> 
+i have n't seen that one
+SEEKER: <s> Oh you are right! We really enjoyed that one and "Penguins of Madagascar (2014)". What do you think of "Despicable Me (2010)" ? </s> 
+GROUND TRUTH: <s> never saw it I liked "Cloudy with a Chance of Meatballs 2 (2013)" </s> 
+i have n't seen that one yet
+SEEKER: <s> Oh we can't watched that one yet. I really enjoyed "Charlie and the Chocolate Factory  (2005)" . </s> 
+GROUND TRUTH: <s> great choice </s> 
+i have n't seen that one yet
+SEEKER: <s> Did you prefer it over "Willy Wonka & the Chocolate Factory (1971)" ? </s> 
+GROUND TRUTH: <s> nothing beats willy wonka </s> 
+i have n't seen that one yet
+SEEKER: <s> I agree. I really enjoyed Wilder in "Young Frankenstein (1974)" </s> 
+GROUND TRUTH: <s> sure sounds amazing </s> 
+i have n't seen that one yet
+CONVERSATION:15
+SEEKER: <s> Hello how you are you today? </s> 
+GROUND TRUTH: <s> Hi! I'm great- hope you are too! I love comedies and dramas- and horror too- what about you?! I just saw a great horror movie- but I know most people aren't huge horror fans- "It Follows (2014)" - it was REALLY good!! </s> 
+hi , i 'm good . how are you ?
+SEEKER: <s> Same here . I really like movies with the rock like "Central Intelligence (2016)" </s> 
+GROUND TRUTH: <s> I love the Rock- have you seen "Baywatch  (2017)" ? "The Pacifier (2005)" is good too if you have not seen it yet- it is sort of old now </s> 
+i have n't seen that one yet . i have n't seen that one yet . i will have to check it out !
+SEEKER: <s> I havent yet, but I really want to </s> 
+GROUND TRUTH: <s> You should definitely watch it- and "Jumanji  (2017)" it is hilarious!! I also like anything with Chris Farley- do you like him- I love "Tommy Boy (1995)" </s> 
+i have n't seen that one yet . i will have to check it out !
+SEEKER: <s> I liked but my love for Robin williams makes me like the older "Jumanji (1995)"  more </s> 
+GROUND TRUTH: <s> Oh I love Robin Williams too!! So sad!! </s> 
+i have n't seen that one yet , but i 've heard it was good . i have n't seen it yet . i will have to check it out !
+SEEKER: <s> my husband loves him </s> 
+GROUND TRUTH: <s> Nice talking to you!! </s> 
+i have n't seen that one yet ! i will have to check it out !
+CONVERSATION:16
+GROUND TRUTH: <s> good afternoon </s> 
+hello !
+SEEKER: <s> Hello </s> 
+GROUND TRUTH: <s> what can i suggext for you today? </s> 
+what kind of movies do you like ?
+SEEKER: <s> Something scary </s> 
+GROUND TRUTH: <s> alright how about "It  (2017)"  "Maximum Overdrive (1986)" "Carrie  (2013)" and "Frankenstein  (2004)" all 4 will surely give you a good chill </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> I havent seen "Frankenstein  (2004)" </s> 
+GROUND TRUTH: <s> Well, i guess it is a great suggestion now </s> 
+"Halloween  (1978)"
+SEEKER: <s> yes it is </s> 
+GROUND TRUTH: <s> Do you have any favorites too? </s> 
+"Halloween  (1978)" is also a good one
+SEEKER: <s> I liked "The Conjuring (2013)" </s> 
+GROUND TRUTH: <s> cool, i like that too along with the "Annabelle  (2014)"  series </s> 
+"Halloween  (1978)" is a good one
+SEEKER: <s> Yes that was a good one too Thank you for your suggestions </s> 
+GROUND TRUTH: <s> im glad i could help you I hope you enjoy your movies! bye </s> 
+your welcome bye
+CONVERSATION:17
+GROUND TRUTH: <s> Hello! </s> 
+hello !
+SEEKER: <s> i have not seen "Star Wars: Episode VIII – The Last Jedi (2017)" what am i missing </s> 
+GROUND TRUTH: <s> Its a pretty good movie with intense action </s> 
+i have not seen that one . what about
+SEEKER: <s> i mean, will it change my life like "The Dark Knight  (2008)" or just be disappointing </s> 
+GROUND TRUTH: <s> probably somewhere in the middle </s> 
+"Black Panther (2018)" is a good one
+SEEKER: <s> i couldn't make it through "The Hobbit: An Unexpected Journey (2012)" </s> 
+GROUND TRUTH: <s> I liked it. </s> 
+yeah it was a good movie
+SEEKER: <s> I like "Star Wars  (1977)" a lot more since they took it away from lucas </s> 
+GROUND TRUTH: <s> I would give "Rogue One: A Star Wars Story (2016)" a try </s> 
+i like the "Black Panther (2018)" movies too .
+SEEKER: <s> "Rogue One: A Star Wars Story (2016)" was a pretty good action flick </s> 
+GROUND TRUTH: <s> I've always liked "Battlestar Galactica: Razor" </s> 
+i have n't seen that one . i will
+SEEKER: <s> i have not seen "Battlestar Galactica: Razor" but now I am going to loved the tv show until it got bad </s> 
+GROUND TRUTH: <s> Great you won't be sorry </s> 
+i have n't seen that one yet . i
+SEEKER: <s> have not watched a "James Bond  (2015)" in almost a decade </s> 
+GROUND TRUTH: <s> You are missing out! I loved "Skyfall (2012)" </s> 
+i have n't seen that one yet but i
+SEEKER: <s> excellent! then i can watch them all at once in a marathon </s> 
+GROUND TRUTH: <s> It is worth it Have a great night! </s> 
+i have n't seen that one yet but i will
+SEEKER: <s> i have "The Matrix (1999)" in the queue, just for old time's sake goodbye! </s> 
+GROUND TRUTH: <s> good choice! bye!</s>
+*
+CONVERSATION:18
+GROUND TRUTH: <s> Hello. </s> 
+hello !
+SEEKER: <s> Hi I'm looking for a movie like "The Princess Bride  (1987)" Hello Swashbuckling, humor, that sort of thing Do you have any suggestions? </s> 
+GROUND TRUTH: <s> How about "Bride Wars (2009)" or "Ella Enchanted  (2004)"? I liked these and that they were humorous. </s> 
+"Honey, I Shrunk the Kids (1989)" is a good one .
+SEEKER: <s> Hmm, I've never heard of either of those </s> 
+GROUND TRUTH: <s> Did you like "The Princess Bride  (1987)" alot? </s> 
+they are both good .
+SEEKER: <s> Yeah, it was mostly offbeat humor </s> 
+GROUND TRUTH: <s> Then you should like these 2 movies, similiar. </s> 
+"Love Actually (2003)" was also a good one .
+SEEKER: <s> "Bride Wars (2009)" probably isn't my cup of tea Any other suggestions? </s> 
+GROUND TRUTH: <s> What about the other one? </s> 
+"Love Actually (2003)" is also a good one .
+SEEKER: <s> Sounds like it might be interesting. Will give it a try. </s> 
+GROUND TRUTH: <s> Um, maybe "When Harry Met Sally... (1989)", it's old but good. I saw and enjoyed it. </s> 
+"Love Actually (2003)" is a good one .
+SEEKER: <s> Oh I loved that one! Great suggestion Ok, thanks for the suggestions Have a good day! Goodbye </s> 
+GROUND TRUTH: <s> You too. Good bye.</s>
+* 
+CONVERSATION:19
+SEEKER: <s> Hi. How are you doing? </s> 
+GROUND TRUTH: <s> Hi. I am great. What about you? </s> 
+hello !
+SEEKER: <s> Good. I absolutely love good movies. "27 Dresses (2008)" is one of my favorites. </s> 
+GROUND TRUTH: <s> What kind of movies do you like? I have never heard of that one. </s> 
+i 'm good . what kind of movies do you like ?
+SEEKER: <s> I like most genres except for horror and speculative(fantasy/science fiction). </s> 
+GROUND TRUTH: <s> Are you into funny movies? I like "Step Brothers  (2008)" and "Central Intelligence (2016)" . </s> 
+it is a romantic comedy .
+SEEKER: <s> "27 Dresses (2008)"  is a romantic comedy. I also love "10 Things I Hate About You (1999)" </s> 
+GROUND TRUTH: <s> I like fantasy also. Not too much horror. </s> 
+i have n't seen that one . i will have to check it out .
+SEEKER: <s> If you liked those movies, you are likely to like "Rush Hour  (1998)" and its sequels </s> 
+GROUND TRUTH: <s> I will have to check those out. </s> 
+i have n't seen that one . i will have to check it out .
+SEEKER: <s> Chris Rock and Jackie Chan Too funny! </s> 
+GROUND TRUTH: <s> Yes i really like that one! </s> 
+i have n't seen that one . i will have to check it out .
+SEEKER: <s> I loved "Switch  (2013)"  with Jason Bateman also. </s> 
+GROUND TRUTH: <s> I cannot remember if i seen that one. Sounds familiar. It was great chatting with you. Have a great day. Bye. </s> 
+i have n't seen that one . i will have to check it out .
+SEEKER: <s> Two best friends who don't realize they love each other. I enjoyed talking with you to. Have a great day! Bye! </s> 
+CONVERSATION:20
+GROUND TRUTH: <s> Hi. What kind of movies do you like? </s> 
+hi
+SEEKER: <s> Hi! How are you? </s> 
+GROUND TRUTH: <s> I'm good. How are you? </s> 
+i 'm good . thanks .
+SEEKER: <s> I love comedies! I just watched "Father Figures (2017)" and didn't like it at all. Can you recommend me a good comedy? I'm doing great I think "Jumanji  (2017)" was really funny </s> 
+GROUND TRUTH: <s> I can highly recommend "Game Night (2018)" it's in theaters right now, it's hilarious. </s> 
+i also like "Jumanji (2017 sequel)" .
+SEEKER: <s> really? I've heard about it and i watched a trailer and it looks interesting but isn't it a little violent? </s> 
+GROUND TRUTH: <s> Also, "Beerfest (2006)" is on Netflix right now if you have that, it's super funny. I think it's the type of violence that's funny, like a dark comedy. </s> 
+it 's about a boy who 's a girl in the woods . it 's about a boy who 's trying to get a girl in a woman who falls in love with a family .
+SEEKER: <s> I've never watched "Beerfest (2006)" . Is it a college movie? </s> 
+GROUND TRUTH: <s> No, it's a broken lizard production. They made "Super Troopers (2001)" </s> 
+it 's a comedy . it 's a comedy . it 's about a boy who falls in love with a woman .
+SEEKER: <s> I've never heard of those movies. I think i will watch "Game Night (2018)" ! i really like the cast. thank you for helping me </s> 
+GROUND TRUTH: <s> Okay, sounds good. You're welcome! Bye! </s> 
+you 're welcome . have a great day !
+SEEKER: <s> bye </s> 
+GROUND TRUTH: <s> Bye!</s>
+* 
+CONVERSATION:21
+GROUND TRUTH: <s> Hello What kind of movies do you like? </s> 
+hello !
+SEEKER: <s> Oh all sorts! I just watched "Get Out (2017)" last night.  WOW! </s> 
+GROUND TRUTH: <s> I haven't seen that one yet. </s> 
+i have n't seen that one yet . i heard
+SEEKER: <s> It's a modern take on a horror film. Not super gory more Steven King like. </s> 
+GROUND TRUTH: <s> Have you seen "The Visit  (2000)" I thought that was very good. Did you see "Crash  (2004)" ? I enjoyed that a lot. </s> 
+"It  (2017)" is a good one .
+SEEKER: <s> No. I've seen "The Others  (2001)" I think that's the one with Nicole Kidman. I really like that. </s> 
+GROUND TRUTH: <s> I saw that as well and thought it was pretty good. You should check out "Happy Death Day  (2017)" I think you will like that one. </s> 
+i think you would like it .
+SEEKER: <s> Is "Crash  (2004)" a horror film? </s> 
+GROUND TRUTH: <s> No all the others are horror. </s> 
+yes it was . i love it .
+SEEKER: <s> ok thanks sound like some movies to watch this weekend. </s> 
+GROUND TRUTH: <s> It's a good weekend for watching movies where I am. </s> 
+you 're welcome ! have a good night !
+SEEKER: <s> where is that? </s> 
+GROUND TRUTH: <s> We are going to have rain, so it will be perfect. In NJ. I hope you have a good night! </s> 
+i hope you enjoy it !
+SEEKER: <s> sweet.  it's super windy here in SoCal so I think I might just rewatch "Twister  (1996)" you too! </s> 
+CONVERSATION:22
+SEEKER: <s> Hi there! </s> 
+GROUND TRUTH: <s> Hi </s> 
+hello !
+SEEKER: <s> I am looking for a family friendly movie </s> 
+GROUND TRUTH: <s> What type of movies do you like? ok How about "The Lego Batman Movie (2017)" </s> 
+what kind of movies do you like ?
+SEEKER: <s> We did really like that one. But I was hoping to take a break from aniamted movies </s> 
+GROUND TRUTH: <s> ok, what about "National Lampoon's Vacation (1983)" or "Mrs. Doubtfire (1993)" </s> 
+ok , how about "Hoodwinked! (2005)" ?
+SEEKER: <s> I liked both of those, but I'm nervous about the maturity level of "National Lampoon's Vacation " </s> 
+GROUND TRUTH: <s> ok, How about "Mr. Mom (1983)" </s> 
+ok , how about "Willy Wonka & the Chocolate Factory (1971)"
+SEEKER: <s> Is that with Michael Keeton? I think I remember watching it. </s> 
+GROUND TRUTH: <s> yes you should try that one </s> 
+ok , how about "Groundhog Day  (1993)" ?
+SEEKER: <s> I will thanks. Have a good day! </s> 
+GROUND TRUTH: <s> glad, I could help bye </s> 
+ok bye
+CONVERSATION:23
+GROUND TRUTH: <s> Hi What type of movies do you like? </s> 
+hello !
+SEEKER: <s> HI! Know any good comedies?  I love stuff like "Men in Black  (1997)" or "Bad Moms (2016)" </s> 
+GROUND TRUTH: <s> How about "A Bad Moms Christmas (2017)" or "Dirty Grandpa (2016)"? How about "A Bad Moms Christmas (2017)" or "Dirty Grandpa (2016)"? How about "A Bad Moms Christmas (2017)" or "Dirty Grandpa (2016)"? How about "A Bad Moms Christmas (2017)" or "Dirty Grandpa (2016)"? How about "A Bad Moms Christmas (2017)" or "Dirty Grandpa (2016)"? </s> 
+have you seen "Galaxy Quest (1999)" ?
+SEEKER: <s> I've seen "A Bad Moms Christmas (2017)" it was funny.  I did not see "Dirty Grandpa (2016)" but will have to. </s> 
+GROUND TRUTH: <s> Yes, you should,  It was very funny </s> 
+great !
+SEEKER: <s> Thank you for your suggestions! </s> 
+CONVERSATION:24
+GROUND TRUTH: <s> Hi </s> 
+hello !
+SEEKER: <s> Hello </s> 
+GROUND TRUTH: <s> Tell me a movie/actor or director you like </s> 
+what kind of movies do you like ?
+SEEKER: <s> I saw "The Wolverine  (2013)"  recently made me love those kind of movies </s> 
+GROUND TRUTH: <s> Awesome. I'm a big X-Men Fan. Hav eyou seen "X-Men Origins: Wolverine (2009)" How about "Logan  (2017)" ? </s> 
+ok , how about "X-Men Origins: Wolverine (2009)" ?
+SEEKER: <s> Yes Logan is very interesting well made It's just a pity that it's all fiction..hahaha </s> 
+GROUND TRUTH: <s> Another good one you may like is "The Divergent Series"  about a girl in a dystopian world Interesting LOL Yeah I would love anamadium claws. LOL Hope you liked these suggestions </s> 
+"Black Panther (2018)" is also a good one .
+SEEKER: <s> I love them all especially Divergent Series. Nice chatting with you. Have an Amazing weekend ahead </s> 
+GROUND TRUTH: <s> ok</s>
+* 
+CONVERSATION:25
+GROUND TRUTH: <s> Hi!  how are you? </s> 
+hello !
+SEEKER: <s> Good thanks. I am looking for a good kids movie that isn't Disney. </s> 
+GROUND TRUTH: <s> Oh great! </s> 
+i love disney movies too ! have
+SEEKER: <s> Something like "Shreck (1990)" Any suggestions? </s> 
+GROUND TRUTH: <s> I liked "Frozen (2013)" "Moana  (2016)" and of course ! ANd also "Aladdin  (1992)" </s> 
+"Frozen (2013)" is a good one .
+SEEKER: <s> But those are both Disney movies. </s> 
+GROUND TRUTH: <s> Oh yes sorry I forogt that pixar is disney I can't think of many non disney kids movies.  Any other genre you like? </s> 
+have you seen "Sing  (2016)" ?
+SEEKER: <s> Not really. I guess I will just have to go with a Disney movie than. Maybe "Pete's Dragon  (2016)" </s> 
+GROUND TRUTH: <s> Oh yes that sounds good too Ok well thanks! Bye! </s> 
+oh yes ! that 's a good one .
+SEEKER: <s> Bye </s> 
+CONVERSATION:26
+SEEKER: <s> hi i like ghost movies "The Conjuring (2013)" it is one of my favourites can you suggest me more ghost movies can you suggest me more ghost movies </s> 
+GROUND TRUTH: <s> mhm, I've never seen. So you're into horror movies? </s> 
+"Annabelle  (2014)"
+SEEKER: <s> yes </s> 
+GROUND TRUTH: <s> Have you seen "The Shining  (1980)", or "Hush  (2016)" ?! Those are both great thrillers! </s> 
+"It  (2017)"
+SEEKER: <s> i have not seen these movies are they good </s> 
+GROUND TRUTH: <s> Very! "Hush  (2016)"  has a very high rating and can be found on Netflix! If you enjoy zombie movies, I'd also highly recommend "Train to Busan (2016)". Also found on Netflix. </s> 
+i would recommend "It  (2017)"
+SEEKER: <s> the last movie i saw was "Insidious  (2011)" it was good </s> 
+GROUND TRUTH: <s> I agree! </s> 
+i have n't seen that one yet , but i 've heard it was good .
+SEEKER: <s> you have see a lot of ghost movies </s> 
+GROUND TRUTH: <s> Yes! </s> 
+i have n't seen that one yet , but i 've heard it was good . i have n't seen it yet , but i 've heard it was good .
+SEEKER: <s> it was nice chatting with you thank you good bye </s> 
+CONVERSATION:27
+GROUND TRUTH: <s> hello </s> 
+hello !
+SEEKER: <s> hi can you help me. i am looking for a good horror flick </s> 
+GROUND TRUTH: <s> "Scream 2 (1997)" I like the whole serious "Hannibal  (2001)" was another good one </s> 
+have you seen "It  (2017)" ?
+SEEKER: <s> not bad but i want lots of guts and blood that was a good one </s> 
+GROUND TRUTH: <s> hmm let me think </s> 
+"It  (2017)" was a good one
+SEEKER: <s> "The Texas Chain Saw Massacre (1974)"  was the best at that time </s> 
+GROUND TRUTH: <s> yes, that was a really good movie "The Texas Chainsaw Massacre  (2003)" the remake was really good too I didn't think the "Texas Chainsaw 3D (2013)" was the best </s> 
+"The Shining  (1980)" was good too
+SEEKER: <s> that was good too...</s>
+CONVERSATION:28
+GROUND TRUTH: <s> Hi What are your favorite movies? </s> 
+hello !
+SEEKER: <s> Hi! I liked "Star Wars  (1977)" and "Guardians of the Galaxy  (2014)". </s> 
+GROUND TRUTH: <s> Have you seen "War for the Planet of the Apes (2017)" yet? </s> 
+have you seen "Blade Runner 2049 (2017)" ?
+SEEKER: <s> Not yet. </s> 
+GROUND TRUTH: <s> Maybe you would also like "Wonder Woman  (2017)" . Or "Raiders of the Lost Ark (1981)" . </s> 
+i have n't seen that one .
+SEEKER: <s> Ok cool. </s> 
+GROUND TRUTH: <s> Both are fun movies. </s> 
+or "Black Panther (2018)" ?
+SEEKER: <s> I liked "Raiders of the Lost Ark (1981)" a lot. </s> 
+GROUND TRUTH: <s> Maybe you'd like "The Mummy  (1999)" too. </s> 
+how about "Blade Runner 2049 (2017)" ?
+SEEKER: <s> Alright. Thanks, goodbye. </s> 
+GROUND TRUTH: <s> Bye</s>
+* 
+CONVERSATION:29
+SEEKER: <s> Hi. </s> 
+GROUND TRUTH: <s> Hello </s> 
+hi ,
+SEEKER: <s> I'm looking for a good comedy. </s> 
+GROUND TRUTH: <s> "Austin Powers: International Man of Mystery (1997)" is a funny one </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> I lIke "Masterminds  (2016)" Austin Powers is good.  I've seen all of those. </s> 
+GROUND TRUTH: <s> "Monty Python and the Holy Grail (1975)" is funny too if you like that sort of humor </s> 
+"The Big Lebowski" is a good one .
+SEEKER: <s> I've seen that one too.  It's really funny. Any more recent comedies you would suggest? </s> 
+GROUND TRUTH: <s> "Jumanji  (2017)" was pretty funny </s> 
+"The Big Lebowski" is a funny one .
+SEEKER: <s> I haven't seen that one yet. Thanks for the suggestion. </s> 
+GROUND TRUTH: <s> Check it out. I think you'll like it Have a great day </s> 
+"The Big Lebowski" is another one that i liked was "We're the Millers (2013)"
+SEEKER: <s> Thanks you too. Bye. </s> 
+CONVERSATION:30
+GROUND TRUTH: <s> hi </s> 
+hello !
+SEEKER: <s> Hi, can you recommend a movie similar to "Love and Basketball (2000)" </s> 
+GROUND TRUTH: <s> Woow I recomended "Click  (2006)"  and "D-17  (2008)" Very good movies for you </s> 
+hi , how about "Jumanji  (2017)" ?
+SEEKER: <s> what about a movie similar to "The Lucky One  (2012)" </s> 
+GROUND TRUTH: <s> I don't know Seen "Killa  (2015)" Is very good for you </s> 
+"Killa  (2015)"
+SEEKER: <s> i will look at it, bye </s> 
+CONVERSATION:31
+SEEKER: <s> hi </s> 
+GROUND TRUTH: <s> Hi, how can I help you with? </s> 
+hello !
+SEEKER: <s> I am looking for an action movie </s> 
+GROUND TRUTH: <s> great, what are some movies you like? </s> 
+okay , great , have you seen "Black Panther (2018)" ?
+SEEKER: <s> "Black Panther (2018)" was good </s> 
+GROUND TRUTH: <s> you might like "Ghost in the Shell  (2017)" </s> 
+have you seen "Tomb Raider (2018)" ?
+SEEKER: <s> have not seen it. Is it good? </s> 
+GROUND TRUTH: <s> or possibly "Geostorm (2017)" </s> 
+it is a great movie .
+SEEKER: <s> I will have to check it out </s> 
+GROUND TRUTH: <s> It is, it has Scar-Jo I think you will like it there is also "Fast 8" </s> 
+it is a great movie .
+SEEKER: <s> Thanks I have not seen any "Fast & Furious  (2009)" movies I will check them out too. Thanks have a nice day </s> 
+GROUND TRUTH: <s> great, have a great day</s>
+you too bye 
+SEEKER: <s> bye </s> 
+CONVERSATION:32
+GROUND TRUTH: <s> hello what can i help you with? What is your fav genre? </s> 
+hello !
+SEEKER: <s> hey there! </s> 
+GROUND TRUTH: <s> hi </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> i love horror </s> 
+GROUND TRUTH: <s> Awesome me too!! I love "Dawn of the Dead  (2004)" </s> 
+have you seen "It  (2017)" ?
+SEEKER: <s> thats a good one! </s> 
+GROUND TRUTH: <s> or "Cannibal Holocaust (1980)" </s> 
+"Zombieland (2009)" is a good one too
+SEEKER: <s> reminds me of "The Hills Have Eyes " </s> 
+GROUND TRUTH: <s> yep exactly or "Tokyo Gore Police (2008)" </s> 
+"Saw  (2004)" is a good one too
+SEEKER: <s> oo i must add that to my list! </s> 
+GROUND TRUTH: <s> you wont be dissapointed </s> 
+"Saw  (2004)"
+SEEKER: <s> great suggestions thanks! </s> 
+GROUND TRUTH: <s> which one do you like the most? </s> 
+"The Babadook (2014)"
+SEEKER: <s> "Dawn of the Dead  (2004)" for sure! </s> 
+GROUND TRUTH: <s> nice! enjoy then! bye </s> 
+*
+CONVERSATION:33
+SEEKER: <s> Hello, I am looking for movies for a night with friends that I have coming up.  Any suggestions? </s>
+GROUND TRUTH: <s> @204974 is a great movie </s>
+"Black Panther (2018)" is a good one .
+SEEKER: <s> When I was younger I liked movies like @77161 </s>
+GROUND TRUTH: <s> I really love action movies </s>
+"It (2017 film)" is a good one .
+SEEKER: <s> Oh I haven't seen that one yet, but I really want to. </s>
+GROUND TRUTH: <s> You may be interested in @202155 </s>
+"It  (2017)" is a good one too .
+SEEKER: <s> I like action movies too.  I love @183121  and @100821 . </s>
+GROUND TRUTH: <s> I have every x-men movie </s>
+i have n't seen that one .
+SEEKER: <s> Oh yes I have seen @202155. </s>
+GROUND TRUTH: <s> I love @183121 </s>
+i have n't seen that one .
+SEEKER: <s> I haven't seen it yet but I want to, @181715 looks amazing. </s>
+GROUND TRUTH: <s> @181715  is the great </s>
+i have n't seen that one yet
+SEEKER: <s> I will definitely have to check that out than. </s>
+GROUND TRUTH: <s> Have you seen @205163 That may be a great movie for an upcoming movie night </s>
+i hope i helped you out .
+SEEKER: <s> No I haven't seen that yet.  I haven't seen any new movies in a while. For sure I will have to check that one out too.  Sounds like it will be an action packed night. Thank you for your help. </s>
+GROUND TRUTH: <s> Yes you are welcome, I am most delighted to help </s>
+*
+SEEKER: <s> Have a great night, good bye. </s>
+GROUND TRUTH: <s> Ta! Good Night </s>
+*
+CONVERSATION:34
+GROUND TRUTH: <s> Hi! </s> 
+hello !
+SEEKER: <s> Hello, how are you?  I really like psychological thrillers and supernatural horror movies.  I loved "Memento  (2000)" and "The Conjuring (2013)" </s> 
+GROUND TRUTH: <s> Have you seen "Shutter Island  (2010)" ? </s> 
+have you seen "The Shining  (1980)" ?
+SEEKER: <s> Yes, I loved that and the book!  Fabulous movies movie </s> 
+GROUND TRUTH: <s> "The Gift  (2015)" was another really interesting one. </s> 
+have you seen "Gone Girl  (2014)" ?
+SEEKER: <s> Oh yeah, about the woman and her husband?  I liked that ok, too. "Minority Report  (2002)" is another great one </s> 
+GROUND TRUTH: <s> Yes that one was interesting. I liked "One Hour Photo (2002)" as well. </s> 
+"Gone Girl  (2014)" was good too .
+SEEKER: <s> Oh yeah!  It's been awhile since I saw that, but I do remember liking it.  It had Robin Williams, I believe.  I need to re watch it. </s> 
+GROUND TRUTH: <s> Yeah he can be a very good actor. I loved him in "The Angriest Man in Brooklyn (2014)" </s> 
+i have n't seen that one . i will have to check it out .
+SEEKER: <s> I have not seen that.  I would like to try that one.  He definitely can be very good, seems to have kinda fallen off lately maybe </s> 
+GROUND TRUTH: <s> That was a comedy movie he was pretty funny in it. I also liked his work in "Bicentennial Man  (1999)" </s> 
+i have n't seen that one . i will have to check it out .
+SEEKER: <s> I have not seen that either.  So there are two Robin Williams movies I could check out.  Thank you for the suggestions, I hope you have a happy new year! </s> 
+GROUND TRUTH: <s> Sure! You too!</s>
+you 're welcome ! have a great night ! 
+CONVERSATION:35
+GROUND TRUTH: <s> hello </s> 
+hello !
+SEEKER: <s> Hey, how are you? </s> 
+GROUND TRUTH: <s> i am good, and you </s> 
+i 'm good , how are you
+SEEKER: <s> Good, know any decent action flicks like "Die Hard (1988)"? </s> 
+GROUND TRUTH: <s> let me see "Cellular  (2004)" "The Punisher  (2004)" </s> 
+i have n't seen that one .
+SEEKER: <s> Those were good I really enjoyed "Eagle Eye (2008)" </s> 
+GROUND TRUTH: <s> yes they were oh yeah i liked that one did you like "Mr. & Mrs. Smith  (2005)" ? </s> 
+i have n't seen that one , but i heard it was good .
+SEEKER: <s> Yeah good films, I'll have to re-watch it Thanks for the ideas, you have a good night </s> 
+GROUND TRUTH: <s> lol I have been making a list to re watch movies bye and good night </s> 
+you too , bye
+SEEKER: <s> Good night </s> 
+CONVERSATION:36
+GROUND TRUTH: <s> hello </s>
+hi !
+SEEKER: <s> can you give me any movie sugestions ? </s>
+GROUND TRUTH: <s> tell me what kind of movies do you like ? </s>
+sure , what kind of movies do you like ?
+SEEKER: <s> i like comedy movies </s>
+GROUND TRUTH: <s> i would recommend you click it is very funny  i also would recommend you you do n't mess with the zohan </s>
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> i liked click i thought it was pretty good . </s>
+GROUND TRUTH: <s> those are really funny , have you seen them ?  have you seen american pie ? </s>
+I also liked "Click (2006)"
+SEEKER: <s> i havent seen you do n't mess with the zohan what it about ? </s>
+GROUND TRUTH: <s> or scary movie  it is a movie <unk> by adan sandle </s>
+it is about a group of friends who find their lives in the world of the
+SEEKER: <s> i liked those movies  i thought they were pretty good </s>
+GROUND TRUTH: <s> it is pretty funny you know almost all the movie he has done are very funny </s>
+i think you will like it .
+SEEKER: <s> yeah i love how he acts </s>
+GROUND TRUTH: <s> hahahaa , those are old movies but if you see them again you laugh so much </s>
+i hope you enjoy the movies . have a great day .
+SEEKER: <s> i think i will watch you do n't mess with the zohan sounds interesting </s>
+GROUND TRUTH: <s> i hope i have helped have a good evening </s>
+i hope you enjoy , have a great day .
+SEEKER: <s> and maybe rewatch the others  thanks  bye </s>
+GROUND TRUTH: <s> enjoy your evening  bye </s>
+**
+CONVERSATION:37
+SEEKER: <s> hello can you recommend a good suspense movie</s>
+GROUND TRUTH: <s> OH a good suspense movie! sure can.</s>
+hi there ! what kind of movies do you like
+SEEKER: <s> thanks</s>
+GROUND TRUTH: <s> An oldie but goodie for me is "Swimfan (2002)" its about a girl who stalks the star swimmer at her high school. I have it on DVD and watch it here and there still lol</s>
+"Black Panther (2018)" is a good one
+SEEKER: <s> I havenn't seen that. sound good</s>
+GROUND TRUTH: <s> Also, I loved "The Purge (2013)" and "The Purge: Election Year (2016)" . Those two movies had me on the edge of me seat. It gets kind of gore-y, but you never know whats going to happen next. Which always makes a good suspense movie</s>
+"Moana  (2016)" is a good one too
+SEEKER: <s> Those were really good movies too, iv seen both of them can you give me one more</s>
+GROUND TRUTH: <s> sure! last year "Get Out (2017)" came out and that one is a nail bitter too!</s>
+"It  (2017)"
+SEEKER: <s> I haven't seen that one, I'll have to check it out...thanks for the help goodbye</s>
+CONVERSATION:38
+GROUND TRUTH: <s> Hello! </s> 
+hello !
+SEEKER: <s> hello </s> 
+GROUND TRUTH: <s> What type of movies do you like? </s> 
+okay , i 'm sure you 've seen "Black Panther (2018)" ? it 's a great movie .
+SEEKER: <s> im looking for a good family film </s> 
+GROUND TRUTH: <s> Well, "I Can Only Imagine (2018)" is out now. It wouldn't be good for little kids though. </s> 
+okay , i 'm not sure if it 's a great movie .
+SEEKER: <s> something like "Inside Out  (2015)" </s> 
+GROUND TRUTH: <s> They would be bored. </s> 
+"Flash Gordon  (1936)" is a good one .
+SEEKER: <s> what is iccan only... about? </s> 
+GROUND TRUTH: <s> Have you seen "Up  (2009)"? </s> 
+"Sherlock Holmes  (1922)" is a great mystery .
+SEEKER: <s> best  min love story ever .. I have seen it but not the kids </s> 
+GROUND TRUTH: <s> "I Can Only Imagine (2018)" is a story of a Christian singer who had a rocky relationship with his dad. Full of family values and such, but not amusing to small children. </s> 
+i think you 'd like it .
+SEEKER: <s> do you think kids would like "Guardians of the Galaxy  (2014)" ? </s> 
+GROUND TRUTH: <s> It got great reviews, it is PG-13 though. It depends how old and mature your kids are and if you are okay with that rating. </s> 
+i 'm glad i could help . have a great day !
+SEEKER: <s> I guess ill try "Up  (2009)"  then.  assuming they haven't seen it with out me.  thanks for the help </s> 
+GROUND TRUTH: <s> Have a good time! </s> 
+you 're welcome ! have a great night !
+CONVERSATION:39
+GROUND TRUTH: <s> Hello stranger! </s> 
+hello !
+SEEKER: <s> Hello. I'm looking to see a good action film like "Baby Driver  (2017)" Do you recommend any? </s> 
+GROUND TRUTH: <s> Know any good random movies like "To Wong Foo, Thanks for Everything! Julie Newmar (1995)" or "The Birdcage (1996)"? Ah, I still haven't seen that one yet. I heard the soundtrack is amazing. </s> 
+i have n't seen that one . have you seen "John Wick (2014)" ?
+SEEKER: <s> It is and ties in well with the movie </s> 
+GROUND TRUTH: <s> I suppose if you are looking for action movies with a light British feel and a good soundtrack, "Kingsman: The Golden Circle" </s> 
+"The Hitman's Bodyguard" is also a good one .
+SEEKER: <s> I have not seen the first two you have mentioned, but I liked "The Birdcage (1996)" I still haven't seen "Kingsman: The Golden Circle" but I really liked "Kingsman: The Secret Service (2014)" </s> 
+GROUND TRUTH: <s> Ah, the first one is just a long title. Has Wesley Snipers in drag lol "Kingsman: The Secret Service (2014)" is the superior movie, admittedly. However, both are worth watching. </s> 
+i have n't seen that one . i 'll have to check it out .
+SEEKER: <s> Ah, haha That is hilarious i'm sure I'll enjoy it.  Thank you for the recommenation. </s> 
+GROUND TRUTH: <s> It is actually a good movie. You should check it out when you are feeling vulnerable if that makes sense lol. A feel good movie, in the same manner as "The Breakfast Club (1985)" </s> 
+you 're welcome . have a great day !
+SEEKER: <s> That is a great one as well.  Thank you. </s> 
+GROUND TRUTH: <s> No problem. Any last minute ideas for what I should watch tonight? I  will take anything, more random the better! </s> 
+you 're welcome . have a great day !
+SEEKER: <s> I'm not sure. I am watching "Them! (1954)" at the moment Haha </s> 
+GROUND TRUTH: <s> Ha! I haven't watched that in awhile! I might just do that. Thanks. </s> 
+you 're welcome . have a good day .
+SEEKER: <s> You're welcome. Thank you for the suggestions.  Have a wonderful day. </s> 
+GROUND TRUTH: <s> You take care now, you hear! </s> 
+*
+SEEKER: <s> You too! Goodbye </s> 
+CONVERSATION:40
+GROUND TRUTH: <s> Hi, what kind of movies do you like? </s> 
+hello !
+SEEKER: <s> Hi, can you recommend a good romantic comedy? </s> 
+GROUND TRUTH: <s> Have you seen "Amadeus  (1984)" ? Let me think I watched "This Space Between Us (1999)" the other day </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> i actually haven't seen "Amadeus  (1984)"  but I hear F. Murray Abraham gives quite a performance. </s> 
+GROUND TRUTH: <s> "Blended  (2014)"  was really funny. </s> 
+"The Age of Innocence  (1993)" is a good one too
+SEEKER: <s> "Blended  (2014)", what is that about? </s> 
+GROUND TRUTH: <s> Abraham must be the villain. </s> 
+it 's about a guy who falls in love with a man who is a
+SEEKER: <s> Yeah, he was Salieri . </s> 
+GROUND TRUTH: <s> "Blended  (2014)"  has Adam Sandler and Drew Barrymore. It's about them meeting each other on an African vacation. </s> 
+i hope you enjoy it . bye
+SEEKER: <s> That might work, I loved them in "50 First Dates (2004)" . </s> 
+GROUND TRUTH: <s> I saw "Forgetting Sarah Marshall (2008)" a while back. I remember liking it. It was kind of the same vacation type setting but at the beach. </s> 
+i hope you enjoy it . bye .
+SEEKER: <s> Cool, thanks for the suggestion. Have a great day. </s> 
+GROUND TRUTH: <s> You're welcome </s> 
+you too !
+CONVERSATION:41
+GROUND TRUTH: <s> Hello! </s> 
+hello !
+SEEKER: <s> hi </s> 
+GROUND TRUTH: <s> What do you like to watch? </s> 
+what kind of movies do you like ?
+SEEKER: <s> i like fantasy movies like "Dragonslayer (1981)" </s> 
+GROUND TRUTH: <s> Oooh an oldy but a goody. Have you seen "Labyrinth  (1986)" with David Bowie? </s> 
+have you seen "The Lord of the Rings " ?
+SEEKER: <s> yes that one is very good they dont make characters like that anymore </s> 
+GROUND TRUTH: <s> Well a good alternative is any of the "The Chronicles of Narnia " movies. </s> 
+"The Lord of the Rings " is also a good one
+SEEKER: <s> yes ive seen the first one and liked it but i havent seen the others </s> 
+GROUND TRUTH: <s> Also, you should check out "Stardust  (2007)" that was a suprise hit with my group when we went to see it. </s> 
+"Harry Potter " is also a good one
+SEEKER: <s> really i think i missed that one </s> 
+GROUND TRUTH: <s> Then you should definitely try it. You won't be disappointed. </s> 
+i have n't seen that one .
+SEEKER: <s> great thanks </s> 
+GROUND TRUTH: <s> That' fantastic. Good night! </s> 
+no problem ! bye
+SEEKER: <s> night </s> 
+CONVERSATION:42
+SEEKER: <s> hello can you recommend a good suspense movie </s> 
+GROUND TRUTH: <s> OH a good suspense movie! sure can. </s> 
+hi there ! what kind of movies do you like
+SEEKER: <s> thanks </s> 
+GROUND TRUTH: <s> An oldie but goodie for me is "Swimfan (2002)" its about a girl who stalks the star swimmer at her high school. I have it on DVD and watch it here and there still lol </s> 
+"Black Panther (2018)" is a good one
+SEEKER: <s> I havenn't seen that. sound good </s> 
+GROUND TRUTH: <s> Also, I loved "The Purge (2013)" and "The Purge: Election Year (2016)" . Those two movies had me on the edge of me seat. It gets kind of gore-y, but you never know whats going to happen next. Which always makes a good suspense movie </s> 
+"Moana  (2016)" is a good one too
+SEEKER: <s> Those were really good movies too, iv seen both of them can you give me one more </s> 
+GROUND TRUTH: <s> sure! last year "Get Out (2017)" came out and that one is a nail bitter too! </s> 
+"It  (2017)"
+SEEKER: <s> I haven't seen that one, I'll have to check it out...thanks for the help goodbye </s> 
+CONVERSATION:43
+GROUND TRUTH: <s> Hello! What kind of movies are you looking for? </s> 
+hello !
+SEEKER: <s> Hi! I'm looking for something in the noir genre. </s> 
+GROUND TRUTH: <s> Okay, if you like old ones, there is "The Maltese Falcon  (1941)" and "Touch of Evil (1958)" </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> I am a huge fan of both of those. "Chinatown  (1974)"  will always be a favorite as well. </s> 
+GROUND TRUTH: <s> Right on.  Have you seen "Nightcrawler  (2014)" ? That is a very dark movie. </s> 
+have you seen "Nightcrawler  (2014)" ?
+SEEKER: <s> It was definitely dark, but I did enjoy it. "Brick  (2005)" is a cooler twist on the noir film as well Have you seen it? </s> 
+GROUND TRUTH: <s> I haven't.  Have you seen "Drive  (2011)" ? </s> 
+yes , it is . i have n't seen it yet . i have n't seen
+SEEKER: <s> I haven't, but I've been meaning to check it out. Thanks for the suggestion! </s> 
+GROUND TRUTH: <s> You are welcome, I am sure you will enjoy it! Have a good one. </s> 
+you 're welcome ! have a great day !
+SEEKER: <s> Same to you. Cheers! </s> 
+CONVERSATION:44
+GROUND TRUTH: <s> Hello ! </s> 
+hello !
+SEEKER: <s> Hi I am wanting to watch a good adventure movie </s> 
+GROUND TRUTH: <s> Ok, could you give me one you like and I can go from there! </s> 
+what kind of movies do you like ?
+SEEKER: <s> I love all the "Star Wars" movies and "Pirates of the Caribbean" movies </s> 
+GROUND TRUTH: <s> I love those too. So, maybe something like "Star Trek Beyond (2016)" It is an adventure and sci-fi. </s> 
+ok , how about "Thor: Ragnarok (2017)"
+SEEKER: <s> I liked that movie as well </s> 
+GROUND TRUTH: <s> Maybe something like "Stardust  (2007)" ? </s> 
+"Blade Runner (1982)" is a good one too
+SEEKER: <s> I have not heard of that before what is that about </s> 
+GROUND TRUTH: <s> It is an adventure, something like "Pan  (1922)" but no Neverland. </s> 
+it is about a man who is a man who is a young man who is a man who
+SEEKER: <s> I will have to watch that movie I might like that. Thank you </s> 
+GROUND TRUTH: <s> It is easy to find. A bit of romance too! Do you like romance too? </s> 
+no problem . have a good day .
+SEEKER: <s> No but I might like that movie tho Thanks for all the help </s> 
+GROUND TRUTH: <s> Have a good day! </s> 
+no problem ! have a good day !
+SEEKER: <s> Thanks you too. </s> 
+CONVERSATION:45
+SEEKER: <s> hello, i'm looking for comedies like "When Harry Met Sally... (1989)" or "The Wedding Singer (1998)" </s> 
+GROUND TRUTH: <s> I love comedies too. Have you ever seen  "O Brother, Where Art Thou%3F (2000)" </s> 
+hi , how about "50 First Dates (2004)" ?
+SEEKER: <s> no, but i heard good things about it </s> 
+GROUND TRUTH: <s> Or have you seen "Office Space (1999)" </s> 
+it is a good one
+SEEKER: <s> i'll check that </s> 
+GROUND TRUTH: <s> I think you would really like "O Brother, Where Art Thou%3F (2000)" . It's one of my all time favorites!! </s> 
+i have n't seen that one .
+SEEKER: <s> no i haven't seen that one either </s> 
+GROUND TRUTH: <s> "Office Space (1999)"  is a classic! </s> 
+i also like "Fargo  (1996)"
+SEEKER: <s> thank you for the suggestions have a great night goodbye </s> 
+GROUND TRUTH: <s> No problem! Good night! </s> 
+*
+CONVERSATION:46
+GROUND TRUTH: <s> Hi </s> 
+hello !
+SEEKER: <s> Hi </s> 
+GROUND TRUTH: <s> What types of movies do you like? </s> 
+what kind of movies do you like ?
+SEEKER: <s> I'm looking for some really good horror movies. Something like "Saw  (2004)"  or "Hostel  (2011)" I like really gory movies! </s> 
+GROUND TRUTH: <s> The remake of "It  (2017)" was very good </s> 
+have you seen "The Shining  (1980)" ?
+SEEKER: <s> Does it have a lot of gore? </s> 
+GROUND TRUTH: <s> Also "The Hills Have Eyes " Both have gore and a psychological component. </s> 
+yes , it was . it was good .
+SEEKER: <s> I haven't seen that movie in years. I think I liked it. It's the one where the family  gets lost in the hills right </s> 
+GROUND TRUTH: <s> Yes. </s> 
+yes , it was a good one .
+SEEKER: <s> Ok Thanks for the recommendations </s> 
+GROUND TRUTH: <s> another good one might be "Don't Breathe (2016)" great Good Bye! </s> 
+you 're welcome . have a good night
+SEEKER: <s> Thanks again for your help. Have a good night! </s> 
+CONVERSATION:47
+GROUND TRUTH: <s> Hello </s> 
+hello !
+SEEKER: <s> Hi. Can you recommend me some action movies? </s> 
+GROUND TRUTH: <s> I recently saw "Black Panther (2018)" in the theater, it was great.  "Taken  (2008)", "Die Hard (1988)" and "The Matrix (1999)" are others I've really enjoyed </s> 
+sure ! what kind of movies do you like ?
+SEEKER: <s> Those sound really interesting. What are your favorite comedies? </s> 
+GROUND TRUTH: <s> have you seen any of those action movies? I love "Bridesmaids  (2011)" </s> 
+i have n't seen that one . i will have to check it out .
+SEEKER: <s> I have seen "Taken  (2008)" ! Really good one! </s> 
+GROUND TRUTH: <s> Well hopefully you get a chance to check out some of those other movies too, they're really good </s> 
+i have n't seen that one .
+SEEKER: <s> Thanks for the recommendations! Bye! </s> 
+GROUND TRUTH: <s> hope i was of some help, bye! </s> 
+bye
+CONVERSATION:48
+SEEKER: <s> hello!! </s> 
+GROUND TRUTH: <s> Hi there, what sort of movies do you enjoy? </s> 
+hello !
+SEEKER: <s> I like comedys like "Pitch Perfect 3 (2017)"  and "Bridesmaids  (2011)" any new good ones? </s> 
+GROUND TRUTH: <s> oh those are good choices. Have you ever seen "Mean Girls (2004)" ? </s> 
+have you seen "Jumanji  (2017)" ?
+SEEKER: <s> Yes! great one! </s> 
+GROUND TRUTH: <s> Another good one is "The Sweetest Thing (2002)" </s> 
+"Jumanji  (2017)" is also a good one .
+SEEKER: <s> my Favorite!!! "Love Actually (2003)"  was good </s> 
+GROUND TRUTH: <s> Oh, I am British, and that one is excellent! </s> 
+"Girls Trip (2017)" is also a good one .
+SEEKER: <s> yes! </s> 
+GROUND TRUTH: <s> Another good one is "The Holiday (2006)" </s> 
+"Girls Trip (2017)" is also a good one .
+SEEKER: <s> "Notting Hill " </s> 
+GROUND TRUTH: <s> great movies </s> 
+i have n't seen that one . i will have to check it
+SEEKER: <s> "Holiday  (2006)"  was great!! great suggestions! </s> 
+GROUND TRUTH: <s> I hope I could be of help for you to make a choice! </s> 
+i hope you enjoy ! have a great day !
+SEEKER: <s> hahahaa, I will watch them all! Thank you so much! </s> 
+GROUND TRUTH: <s> Enjoy your movie! Bye </s> 
+you 're welcome ! have a great day !
+CONVERSATION:49
+GROUND TRUTH: <s> Hey what can I help you find today? </s> 
+hello !
+SEEKER: <s> Hi how are you? </s> 
+GROUND TRUTH: <s> Good you? </s> 
+i 'm good , thanks for asking .
+SEEKER: <s> I'm looking for a good sci fi movie, like "Ender's Game  (2013)" i'm doing good, looking for something to watch this weekend, maybe something I can find online </s> 
+GROUND TRUTH: <s> How about "Enemy Mine  (1985)", it's a little older but I've always enjoyed it </s> 
+"Tomb Raider (2018)" is a good one
+SEEKER: <s> what's that about I also liked the "Divergent  (2014)" series </s> 
+GROUND TRUTH: <s> About a war in the future where a human and an alien get stranded and have to learn to get along to survive </s> 
+"Passengers  (2016)" is a good one too
+SEEKER: <s> that sounds good, kind of like "Avatar  (2009)" i'll check it out, I loved "Avatar  (2009)" </s> 
+GROUND TRUTH: <s> yeah </s> 
+"Arrival  (2016)" is a great one too
+SEEKER: <s> thanks for your help today </s> 
+GROUND TRUTH: <s> Your welcome have a good one enjoy the film </s> 
+great ! have a great day !
+CONVERSATION:50
+GROUND TRUTH: <s> Hello </s> 
+hello !
+SEEKER: <s> hello! </s> 
+GROUND TRUTH: <s> what type of movies you like </s> 
+what kind of movies do you like
+SEEKER: <s> I am looking for movie recommendations for romantic comedies </s> 
+GROUND TRUTH: <s> i would recommend "Pitch Perfect (2012)" </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> good one for sure! </s> 
+GROUND TRUTH: <s> it is about a girl who joins school's singing group the rest of the story revolves around her and other group membres members* pretty funny and enjoyable to watch </s> 
+ "Pitch Perfect 3 (2017)" is a good one
+SEEKER: <s> love that whole franchise. </s> 
+GROUND TRUTH: <s> and you should definitely see "La La Land  (2016)" it should be on top of you watchlist Emma Stone was perfect in it with Ryan Gosling </s> 
+"Pitch Perfect 3 (2017)" is another good one
+SEEKER: <s> SO good!!! </s> 
+GROUND TRUTH: <s> humor and comedy all in musical performance you know what "The 40-Year-Old Virgin (2005)" very ridiculous title for the movie, but it is truly comical with Steve Carell playing </s> 
+i also really enjoy "The Greatest Showman (2017)"
+SEEKER: <s> KELLY CLARKSON!!!! </s> 
+GROUND TRUTH: <s> also check out Just Go With It </s> 
+i have n't seen that one yet but i will have to check it out !
+SEEKER: <s> "The 40-Year-Old Virgin (2005)" is such a classic for movie lines ha! </s> 
+GROUND TRUTH: <s> Everybody's loved Adam Sandler and Jennifer Aniston </s> 
+i hope you enjoy it ! have a great day !
+SEEKER: <s> i havent seen that one! </s> 
+GROUND TRUTH: <s> traditional humor is guaranteed comedy genre is a great to reduce some anxiety are we done? </s> 
+i hope you enjoy it ! have a great night !
+SEEKER: <s> yep! Thanks for the suggestions. goodnight </s> 
+GROUND TRUTH: <s> Bye </s> 
+*
+CONVERSATION:51
+SEEKER: <s> Hello. </s> 
+GROUND TRUTH: <s> Hi what kind of movie would you like to watch </s> 
+hi , how are you ?
+SEEKER: <s> Is there a good recent action movie? </s> 
+GROUND TRUTH: <s> "Jumanji  (2017)" was pretty good better than I thought it was going to be </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> Is that a kid's movie? I still haven't seen "Star Wars: Episode VIII – The Last Jedi (2017)" . I'm looking forward to that. </s> 
+GROUND TRUTH: <s> no it is rated pg13 with Jack Black That movie was amazing </s> 
+i have n't seen that one . i will have to check it out
+SEEKER: <s> Maybe I'll give it a shot. I like Jack Black. Did you like "Kung Fu Panda (2008)" ? </s> 
+GROUND TRUTH: <s> "Kingsman: The Golden Circle" was good Yes I have seen that movie many times </s> 
+i have n't seen that one . i will have to check it out
+SEEKER: <s> I must respectfully disagree about "Kingsman: The Golden Circle" . It was very corny for me. "Blade Runner 2049 (2017)" was good imo. </s> 
+GROUND TRUTH: <s> "The Dark Tower  (2017)" is supposed to be good heard good things about it it's a sci-fi action movie </s> 
+i have n't seen that one .
+SEEKER: <s> Yes. That was a very good book adaptation. </s> 
+GROUND TRUTH: <s> the "John Wick (2014)" movies were good </s> 
+i have n't seen that one yet . i will have to check it out .
+SEEKER: <s> The action was fast-paced. Very basic, but entertaining. I guess I'll check out your suggestion. Have a nice day. </s> 
+GROUND TRUTH: <s> you too </s> 
+*
+CONVERSATION:52
+GROUND TRUTH: <s> Hello there and good afternoon! What kind of movies do you like? </s> 
+hello !
+SEEKER: <s> I love romance movies </s> 
+GROUND TRUTH: <s> Oh nice! One of my favorites is "Knocked Up (2007)" </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> That was so funny </s> 
+GROUND TRUTH: <s> I also really like "The Notebook (2004)" ... two very different ones! lol Another romantic movie that I really enjoyed from a while back is "Titanic  (1997)" </s> 
+"Forgetting Sarah Marshall (2008)" is a good one too
+SEEKER: <s> "The Lake House  (2006)" was one of my favorites </s> 
+GROUND TRUTH: <s> Oh I haven't ever seen that one! Thank you for the suggestion! </s> 
+i have n't seen that one yet , but i 've heard it was good .
+SEEKER: <s> welcome, have a great day </s> 
+GROUND TRUTH: <s> You too! Goodbye! </s> 
+* 
+CONVERSATION:53
+GROUND TRUTH: <s> Hi there! </s> 
+hello !
+SEEKER: <s> Hello! </s> 
+GROUND TRUTH: <s> What kind of movies are you looking for today? </s> 
+what kind of movies do you like ?
+SEEKER: <s> I am looking for a good action movie. Something like "Die Hard (1988)" or "The Matrix (1999)" </s> 
+GROUND TRUTH: <s> Oh those are both awesome movies! Have you seen "Lethal Weapon (1987)"? </s> 
+have you seen "Taken  (2008)" ?
+SEEKER: <s> Oh yea, that's one of my favorites! </s> 
+GROUND TRUTH: <s> It's great! How about "True Lies (1994)"? That one is a good mix of comedy and action! </s> 
+"Die Hard 2 (1990)" is another good one !
+SEEKER: <s> I haven't seen that one, but I love combinations like that. I will have to watch it, thank you for the advice! </s> 
+GROUND TRUTH: <s> It's fantastic, I hope you like it! Of course! Have a great night! </s> 
+you 're welcome ! have a great day !
+SEEKER: <s> You too! </s> 
+GROUND TRUTH: <s> Bye! </s> 
+*
+CONVERSATION:54
+SEEKER: <s> Well, hello there! </s> 
+GROUND TRUTH: <s> Hello, how are you? </s> 
+what kind of movies do you like
+SEEKER: <s> I'm doing great. I just started listening to The Beatles recently and was looking for movies either starring the band or about them. I have seen "Yellow Submarine  (1968)". </s> 
+GROUND TRUTH: <s> I'm the perfect person to ask about this! I would highly recommend their movie "Help!  (1965)" They star in it, it contains many musical interjections, and very funny dialogue. Did you enjoy "Yellow Submarine  (1968)" ? </s> 
+i have n't seen that one . i 've heard of it , but i 've heard good things about it .
+SEEKER: <s> It was okay. A bit weird, but I enjoyed the music. I'll definitely have to check out "Help!  (1965)". </s> 
+GROUND TRUTH: <s> If you are looking for something less &quot;cheeky&quot; and more about the band themselves, I would recommend "The Beatles: Eight Days a Week" </s> 
+i also liked "The Mysterious Monsters (1976)" . i 'm not sure if it is a bit of a bit more of a drama , but i would recommend "The Game  (1997)" .
+SEEKER: <s> Oh is that the documentary? I've been meaning to watch that. </s> 
+GROUND TRUTH: <s> Yes, Ron Howard produced it, so you KNOW it's got to be good! </s> 
+i would say it is a bit of a bit , but i think it is a bit of a bit different than the original .
+SEEKER: <s> Yes he's awesome! I loved "A Beautiful Mind  (2001)". Guess I'll be checking out "The Beatles: Eight Days a Week" later tonight. Thanks for the suggestion! </s> 
+GROUND TRUTH: <s> You're welcome! I hope you enjoy it! </s> 
+no problem ! have a good day !
+SEEKER: <s> Thank you. Have a good one! </s> 
+CONVERSATION:55
+GROUND TRUTH: <s> Hello! </s> 
+hello !
+SEEKER: <s> Hi </s> 
+GROUND TRUTH: <s> What kind of movies are you looking for? </s> 
+what kind of movies do you like ?
+SEEKER: <s> I like comedies.  Two of my favorites are "Dirty Grandpa (2016)" and "Grown Ups  (2010)". </s> 
+GROUND TRUTH: <s> Cool!  Have you seen "Dumb and Dumber (1994)" or "Tucker & Dale vs. Evil (2010)" ? </s> 
+have you seen "Meet the Fockers (2004)" ?
+SEEKER: <s> I have seen "Dumb and Dumber To (2014)" but I haven't seen "Tucker & Dale vs. Evil (2010)".  How is it? </s> 
+GROUND TRUTH: <s> Oh, it is great!  It didn't receive much attention when it came out, but it has developed quite a cult following Its great, you should like it </s> 
+it 's about a guy who 's a guy who 's a professor who 's a guy who 's on a road trip to be a bit .
+SEEKER: <s> Cool, I will have to try it. Thanks for your help. </s> 
+GROUND TRUTH: <s> Yep, have a good one. </s> 
+you 're welcome ! have a great day !
+SEEKER: <s> Bye </s> 
+CONVERSATION:56
+GROUND TRUTH: <s> hi!!! how may I help </s> 
+hello !
+SEEKER: <s> hi, can you suggest a good drama? </s> 
+GROUND TRUTH: <s> Sure! </s> 
+sure ! have you seen "Black Panther (2018)" ?
+SEEKER: <s> Something like "One Flew Over the Cuckoo's Nest  (1975)" I liked that one </s> 
+GROUND TRUTH: <s> oh wow! that is way back ok let me think </s> 
+have you seen "Nightcrawler  (2014)" ?
+SEEKER: <s> yes it is, I like how those movies were filmed </s> 
+GROUND TRUTH: <s> me too! "As Good as It Gets (1997)" was great! </s> 
+"Nightcrawler  (2014)" is a good one too
+SEEKER: <s> adding to my list! </s> 
+GROUND TRUTH: <s> "A Beautiful Mind  (2001)" </s> 
+"Nightcrawler  (2014)" was good too
+SEEKER: <s> "Pulp Fiction (1994)"  is one that I didn't watch until recently </s> 
+GROUND TRUTH: <s> one of my favorites! Have you seen "Kill Bill: Volume 1 (2003)" </s> 
+"American Beauty  (1999)" was good too
+SEEKER: <s> Yes, ruthless </s> 
+GROUND TRUTH: <s> right! </s> 
+i hope you enjoy it ! have a great day ! bye
+SEEKER: <s> I think there were multiple parts.. Good suggestion, i'll go woth Uma </s> 
+GROUND TRUTH: <s> "Good Will Hunting (1997)" </s> 
+ok great ! have a great day !
+SEEKER: <s> Matt Damon? </s> 
+GROUND TRUTH: <s> Hey what about "Atomic Blonde (2017)"     yes Matt Damon </s> 
+ok great ! i hope you enjoy the suggestions ! have a
+SEEKER: <s> Never heard of that! Thanks so much have a good night </s> 
+GROUND TRUTH: <s> you are welcome!! have a great night! bye! </s> 
+you too !
+CONVERSATION:57
+SEEKER: <s> Hi, I'm looking for a good comedy Seen any lately? </s> 
+GROUND TRUTH: <s> Hello. What king of movies do you like? </s> 
+hi , how about "Black Panther (2018)"
+SEEKER: <s> I like classic ones like "Caddyshack (1980)" </s> 
+GROUND TRUTH: <s> Ah </s> 
+i like "Caddyshack II (1988)"
+SEEKER: <s> And "Ghostbusters (1984)" Or "Stripes  (1981)" </s> 
+GROUND TRUTH: <s> I like classics, like from the 30s. LOL </s> 
+i have n't seen that one . i 've seen "Caddyshack II (1988)"
+SEEKER: <s> what would you recommend ? </s> 
+GROUND TRUTH: <s> Have you seen "Ghostbusters  (2016)" ? </s> 
+"Caddyshack II (1988)" is a good one .
+SEEKER: <s> No, I'll have to check it out </s> 
+GROUND TRUTH: <s> I hear it's good. </s> 
+"Groundhog Day  (1993)" is also a good one .
+SEEKER: <s> Okay, thanks for the reco Have a nice day </s> 
+CONVERSATION:58
+GROUND TRUTH: <s> good morning hope you are doing well. what can I try and help you find for a movie? </s> 
+hello !
+SEEKER: <s> Um how about a good recent documentary? </s> 
+GROUND TRUTH: <s> well I Think you might like the "The Queen  (2012)" true story about queen Elizabeth is that what you are looking for? </s> 
+"Black Panther (2018)" is a good one
+SEEKER: <s> Yeah sounds good. I just watched "Man on Wire (2008)" , have you seen that? great documentary </s> 
+GROUND TRUTH: <s> No, I dont think so. </s> 
+"Wonder  (2017)" is a great one
+SEEKER: <s> It's real good about a guy that walks a tight rope between the twin towers </s> 
+GROUND TRUTH: <s> do you like one about animals or military </s> 
+i think you 'll like it .
+SEEKER: <s> animals! </s> 
+GROUND TRUTH: <s> "Pandas (2018)" was a good one. </s> 
+i have n't seen that one . i will have to check it out .
+SEEKER: <s> I really like the remake of "The Jungle Book  (2016)" I'll have to check out Pandas Anyways goodbye! </s> 
+CONVERSATION:59
+SEEKER: <s> Hello </s> 
+GROUND TRUTH: <s> Hi. I heard you were looking for a movie. What do you like to watch? </s> 
+hi , what kind of movies do you like ?
+SEEKER: <s> Have you seen any good scary or suspenseful films recently? I saw "1922 " on Netflix and now I'm interested in Stephen King type movies </s> 
+GROUND TRUTH: <s> I really like "Abduction  (2011)" Hmm. Well, there is "Hannibal  (2001)" </s> 
+have you seen "Insidious  (2011)" ?
+SEEKER: <s> Oh, I haven't seen "Abduction  (2011)" Thank you I do like "Hannibal  (2001)" I with the tv series would have continued </s> 
+GROUND TRUTH: <s> Some people also really like "Signs  (2008)" with Mel Gibson </s> 
+you are welcome . have a great day .
+SEEKER: <s> I enjoyed that as well.  And "The Visit  (2015)" </s> 
+GROUND TRUTH: <s> Some people like "Panic Room (2002)" </s> 
+ i have n't seen that one .
+SEEKER: <s> I'll check out "Abduction  (2011)" I really liked "Panic Room (2002)" Maybe I'll re-watch that too </s> 
+GROUND TRUTH: <s> Ok. Glad you like the suggestions Hope you enjoy watching </s> 
+i hope you enjoy the films . have a great day .
+SEEKER: <s> Have a wonderful day Goodbye </s> 
+GROUND TRUTH: <s> You too. Bye! </s> 
+*
+CONVERSATION:60
+GROUND TRUTH: <s> Hi Are you looking for a good movie? </s> 
+hello !
+SEEKER: <s> Hey there Yes I am looking for a horror movie.  Something like "The Evil Dead (1981)" or maybe "Tucker & Dale vs. Evil (2010)" ? </s> 
+GROUND TRUTH: <s> How about "Hannibal  (2001)" or "The Silence of the Lambs  (1991)" </s> 
+have you seen "The Shining  (1980)" ?
+SEEKER: <s> I've seen both of those and they were great! </s> 
+GROUND TRUTH: <s> How about "Signs  (2008)" </s> 
+"The Shining  (1980)" is also a good one .
+SEEKER: <s> "Signs  (2008)" was great as well :) </s> 
+GROUND TRUTH: <s> Have you seen "The Birds  (1963)" Oldie, but a goodie </s> 
+"The Shining  (1980)" was also a good one
+SEEKER: <s> I have not. I've heard about it but haven't had a chance to watch it yet. </s> 
+GROUND TRUTH: <s> It is a great one. Alfred Hitchcock </s> 
+you should check it out .
+SEEKER: <s> I will have to check that out. Thank you very much!</s>
+GROUND TRUTH: <s></s>
+you 're welcome . have a great day . 
+CONVERSATION:61
+SEEKER: <s> Hey! Hope the day is going well. Do you know a good movie to watch right now? </s> 
+GROUND TRUTH: <s> Hey do you like good comedies because "That's My Boy  (2012)" with dam Sandler was a bit crude but pretty funny </s> 
+hi , what kind of movies do you like ?
+SEEKER: <s> I loved watching the "Pirates of the Caribbean: At World's End (2007)" movies I hope they keep that franchise open </s> 
+GROUND TRUTH: <s> Those were great did you see "The Lord of the Rings " or "The Hobbit " </s> 
+i also liked "Jumanji  (2017)"
+SEEKER: <s> I've never seen "That's My Boy  (2012)" i heard its with Adam Sandler though I think I may end up going with "That's My Boy  (2012)" tonight THank you so much for your help today. I did not see the other two either, but i really never cared </s> 
+GROUND TRUTH: <s> Your welcome Bye </s> 
+"Jumanji  (2017)" is a great one too
+CONVERSATION:62
+SEEKER: <s> Heya How you doing? </s> 
+GROUND TRUTH: <s> Hello, I'm good. What kind of movies do you like? </s> 
+hi , what kind of movies do you like ?
+SEEKER: <s> I like most things besides scifi. I really like thriller, drama. Stuff like "What Lies Beneath (2000)" and "Mystic River  (2003)" </s> 
+GROUND TRUTH: <s> Hmm... I'm not really a fan of thrillers, so I don't know any, but I do like dramas. Have you seen "Extremely Loud and Incredibly Close  (2011)"? </s> 
+have you seen "Gone Girl  (2014)" ?
+SEEKER: <s> Wow, yes I did. THat was so different than I thought it would be. It was great though Yeah any drama suggestions are great or even mysteries Did you ever see "The Last Boy Scout (1991)" with Bruce Willis? That's one of my favorites </s> 
+GROUND TRUTH: <s> No, I haven't seen that one. Have you seen "One Hour Photo (2002)"? </s> 
+i have n't seen that one . i 've heard "The Help  (2011)" was good .
+SEEKER: <s> Haha I did! Robin Williams is so good in that! And also in "The Final Cut  (2004)" I wasn't a fan of "Patch Adams  (1998)" though. broke my heart </s> 
+GROUND TRUTH: <s> I know. That one made me sad, too. </s> 
+i have n't seen that one . i 'll have to check it out .
+SEEKER: <s> I do like comedies too if you'd rather suggest that </s> 
+GROUND TRUTH: <s> Yeah, I'm more into older movies, so it's hard for me to come up with recent films. What about "Young Frankenstein (1974)"? </s> 
+i have n't seen that one . i will have to check it out .
+SEEKER: <s> I don't think I have ever seen that. Just a few clips here and there. And when I hear Puttin on the ritz I think of it haha I will try that one out! </s> 
+GROUND TRUTH: <s> It's definitely hilarious! That and "Blazing Saddles (1974)" are my favorite comedies. </s> 
+i hope you enjoy it !
+SEEKER: <s> I do love that one! I like older movies too. I need to get caught up with the newer stuff Thanks for your help! Have a good night </s> 
+GROUND TRUTH: <s> You too </s> 
+*
+CONVERSATION:63
+GROUND TRUTH: <s> hello </s>
+hi !
+SEEKER: <s> Can you give me any movie sugestions? </s>
+GROUND TRUTH: <s> tell me what kind of movies do you like? </s>
+sure , what kind of movies do you like ?
+SEEKER: <s> I like comedy movies </s>
+GROUND TRUTH: <s> i would recommend you @78874  it is very funny i also would recommend you @108426 </s>
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> I liked @78874 I thought it was pretty good. </s>
+GROUND TRUTH: <s> those are really funny, have you seen them? have you seen @134643 ? </s>
+i also liked "Click (2006 film)"
+SEEKER: <s> I havent seen @108426 what it about? </s>
+GROUND TRUTH: <s> or @78186 it is a movie mady by Adan Sandle </s>
+it is about a group of friends who find their lives in the world of the
+SEEKER: <s> I liked those movies I thought they were pretty good</s>
+GROUND TRUTH: <s> it is pretty funny you know almost all the movie he has done are very funny </s>
+i think you will like it .
+SEEKER: <s> Yeah I love how he acts </s>
+GROUND TRUTH: <s> hahahaa, those are old movies but if you see them again you laugh so much </s>
+i hope you enjoy the movies . have a great day .
+SEEKER: <s> I think I will watch @108426  sounds interesting </s>
+GROUND TRUTH: <s> i hope i have helped have a good evening </s>
+i hope you enjoy , have a great day .
+SEEKER: <s> and maybe rewatch the others thanks bye </s>
+GROUND TRUTH: <s> enjoy your evening bye </s>
+*
+CONVERSATION:64
+GROUND TRUTH: <s> Hi! </s> 
+hello !
+SEEKER: <s> Morning! </s> 
+GROUND TRUTH: <s> What movie are you looking for today? </s> 
+what kind of movies do you like ?
+SEEKER: <s> Would you be able to recommend any good family movies. Something similar to "The Sandlot (1993)" Preferable movies  that are not animated. My boys are a little older. </s> 
+GROUND TRUTH: <s> "Bad News Bears (2005)" was a good one </s> 
+"The Big Green (1995)" is a good one
+SEEKER: <s> We  have watched that movie before and the boys really enjoyed it. Have you by chance seen the new marvel movie? "Thor: Ragnarok (2017)" ? </s> 
+GROUND TRUTH: <s> I have not but I have heard good things! </s> 
+yes , i have seen "Jumanji  (2017)"
+SEEKER: <s> My boys loved "The Avengers  (2012)"  so I waws thinking itwould be a good fit. </s> 
+GROUND TRUTH: <s> "Black Panther (2018)" is suppsoed to be good too </s> 
+"Jumanji  (2017)" was a good one too
+SEEKER: <s> I forgot all about that movie. Any movies that you have seen personally? </s> 
+GROUND TRUTH: <s> i just saw "Guardians of the Galaxy Vol. 2 (2017)" love it </s> 
+i have not seen that one yet . i will have
+SEEKER: <s> THanks for the recommendations! My boys have a list to choose from for family night! </s> 
+GROUND TRUTH: <s> you're welcome! </s> 
+*
+SEEKER: <s> Thanks again have a great day! </s> 
+CONVERSATION:65
+GROUND TRUTH: <s> Hi! What type of movie are you looking for? </s> 
+hello !
+SEEKER: <s> Morning. Could you recommend any good thrillers? I like dark thrillers like "The Last House on the Left  (2009)" </s> 
+GROUND TRUTH: <s> have you seen "Get Out (2017)" ? </s> 
+have you seen "Get Out (2017)" ?
+SEEKER: <s> Or "Seven  (1995)" with Brad Pitt. I watched that one with my friends and we loved the suprise! </s> 
+GROUND TRUTH: <s> those are great ones </s> 
+"Gone Girl  (2014)" is a good one too
+SEEKER: <s> It was really good. </s> 
+GROUND TRUTH: <s> "Memento  (2000)" was so good too </s> 
+"Gone Girl  (2014)" is a good one too
+SEEKER: <s> I haven seen that movie but I heard really good things. Do you know who stars in that movie? </s> 
+GROUND TRUTH: <s> guy pearce its so good </s> 
+"Gone Girl  (2014)" was a good one too
+SEEKER: <s> I have to watch the trailer because everyone keeps telling me about it. </s> 
+GROUND TRUTH: <s> hopefully those work for you! have a good day! </s> 
+it was a great movie .
+SEEKER: <s> Thanks for all your help! </s> 
+CONVERSATION:66
+GROUND TRUTH: <s> Hi. </s> 
+hello !
+SEEKER: <s> hello </s> 
+GROUND TRUTH: <s> What kind of movies do you like? </s> 
+what kind of movies do you like ?
+SEEKER: <s> I am looking for a comedy, anything with Sandra Bullock such as "The Heat  (2013)" </s> 
+GROUND TRUTH: <s> Have you seen "The Proposal  (2009)" ? </s> 
+have you seen "Miss Congeniality  (2000)" ?
+SEEKER: <s> yes, i loved it </s> 
+GROUND TRUTH: <s> Or "Miss Congeniality  (2000)" ? </s> 
+how about "The Wedding Planner (2001)" ?
+SEEKER: <s> that was so funny </s> 
+GROUND TRUTH: <s> Have you seen "Miss Congeniality 2: Armed and Fabulous (2005)" ? </s> 
+"The Wedding Planner (2001)" was really good too .
+SEEKER: <s> yes, it was great I loved her in that one </s> 
+GROUND TRUTH: <s> What about "Practical Magic (1998)" Or "28 Days  (2000)" ?  More of a Drama with some comedy </s> 
+"The Wedding Planner (2001)" was really good too .
+SEEKER: <s> that one was really good you are naming all of my favorites lol </s> 
+GROUND TRUTH: <s> "While You Were Sleeping  (1995)" is also good </s> 
+i have n't seen that one . i will have to check it out
+SEEKER: <s> Oh yes, I forgot about that one! thank you for all of your help, have a great day! </s> 
+GROUND TRUTH: <s> Thanks Bye </s> 
+you too !
+CONVERSATION:67
+GROUND TRUTH: <s> Hello! </s> 
+hello !
+SEEKER: <s> hi </s> 
+GROUND TRUTH: <s> Can I help you find a movie? </s> 
+what kind of movies do you like ?
+SEEKER: <s> did you watch any good movies recently ? I am looking for new movies </s> 
+GROUND TRUTH: <s> I saw "A Wrinkle in Time ", and I liked it. I had read the book as a kid. Do you want something in the theater now? Do you have a favorite actor or genre? </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> either one I love Tom Hanks and will smith also Casey affleck I thik the name "A Wrinkle in Time " sounds good </s> 
+GROUND TRUTH: <s> The "Men in Black  (1997)" movie is good. It has will smith, and there are several in the series. </s> 
+"Wonder  (2017)" is also a good one .
+SEEKER: <s> I already watched it, funny one </s> 
+GROUND TRUTH: <s> Did you see "Men in Black 3 (2012)"? </s> 
+i also liked "Black Panther (2018)" . it is a bit older but it is a bit older but it is a bit different .
+SEEKER: <s> did you watch "Captain Phillips  (2013)" I didn't , is it good as the first one? </s> 
+GROUND TRUTH: <s> The reviews were mediocre. </s> 
+yes , it is . it is a good one .
+SEEKER: <s> ok, I will consider watching it thanks have a great day </s> 
+GROUND TRUTH: <s> I never saw "Captain Phillips  (2013)". Bye. </s> 
+you too .
+SEEKER: <s> it is great , you should watch it bye </s> 
+CONVERSATION:68
+GROUND TRUTH: <s> Hello, Can I help you find a movie? </s> 
+hello !
+SEEKER: <s> Hello!  I would like to find a suspenseful, but clean family friendly movie. </s> 
+GROUND TRUTH: <s> You might like "The Illusionist  (2006)" it is pg-13 however </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> We have not seen that.  We enjoyed "Star Wars: Episode VIII – The Last Jedi (2017)" </s> 
+GROUND TRUTH: <s> you could also try "2001: A Space Odyssey  (1968)" for something G Rated </s> 
+"The Prestige  (2006)" is a great one .
+SEEKER: <s> We have not seen that one either.  Is it good? </s> 
+GROUND TRUTH: <s> If you like "Star Wars  (1977)"  you mind find it enjoyable </s> 
+it is a good one .
+SEEKER: <s> "2001: A Space Odyssey  (1968)" might be a great option.  Anything else that you would suggest? </s> 
+GROUND TRUTH: <s> You can try "Planet of the Apes  (1968)" the older one is quite suspenseful and family friendly. </s> 
+"Arrival  (2016)" is also a good one .
+SEEKER: <s> Those sound good!  I'm going to look into those movies. </s> 
+GROUND TRUTH: <s> I hope you enjoy, have a nice one. </s> 
+i hope you enjoy them !
+SEEKER: <s> Thank you for your help!  Have a great night!  Good bye </s> 
+CONVERSATION:69
+SEEKER: <s> Hello Can you suggest some movies please. A movie you like. Have you seen "Evil Dead  (2013)" </s> 
+GROUND TRUTH: <s> "The Dark Knight  (2008)" I guess cuz its night time </s> 
+i have n't seen that one . i
+SEEKER: <s>  </s> 
+GROUND TRUTH: <s> No I don't think so. </s> 
+i have n't seen that one . i
+SEEKER: <s> Have you seen "Evil Dead  (2013)" Oh sorry I asked that already I liked the Batman movies What do you think of the "Paranormal Activity (2007)" movies </s> 
+GROUND TRUTH: <s> yeah they're hit/miss :/ I liked the first </s> 
+i like horror movies too .
+SEEKER: <s> suggest a movie for me then. </s> 
+GROUND TRUTH: <s> Oh.. "Redrum – A tale of Murder" </s> 
+i like horror movies too .
+SEEKER: <s> I have not seen that one. I will look it up. Thanks Bye </s> 
+GROUND TRUTH: <s> Welcome bye </s> 
+*
+CONVERSATION:70
+GROUND TRUTH: <s> Hello. </s> 
+hello !
+SEEKER: <s> hi </s> 
+GROUND TRUTH: <s> What type of movie can I suggest to you? </s> 
+what kind of movies do you like ?
+SEEKER: <s> I am looking for a slap stick comedy from the 80's or 90's </s> 
+GROUND TRUTH: <s> Not familiar with this, please give me a minute. </s> 
+have you seen "Black Panther (2018)" ?
+SEEKER: <s> okay movies  like "Airplane! (1980)" and "Airplane II: The Sequel (1982)" </s> 
+GROUND TRUTH: <s> Oh, okay. I saw those and thought they were great. Did you see "Caddyshack (1980)" or "Dumb and Dumber (1994)"? </s> 
+how about "Dumb and Dumber (1994)" ?
+SEEKER: <s> yes, those were pretty good </s> 
+GROUND TRUTH: <s> How about "Spaceballs (1987)", I thought this was pretty funny. </s> 
+how about "Groundhog Day  (1993)" ?
+SEEKER: <s> haha that one was great </s> 
+GROUND TRUTH: <s> Okay, let' me see if I can offer one more. </s> 
+i have n't seen that one .
+SEEKER: <s> awesome </s> 
+GROUND TRUTH: <s> "Robin Hood: Men in Tights (1993)"? This one had me rolling. </s> 
+"Planes, Trains and Automobiles (1986)" was also a good one .
+SEEKER: <s> haha I forgot about that one! I'll be watching that one tonight </s> 
+GROUND TRUTH: <s> Great. </s> 
+okay , great . have a good day .
+SEEKER: <s> thanks for all of your help I hope you have a great day </s> 
+GROUND TRUTH: <s> Welcome, glad to help. Have a nice day. Good bye </s> 
+*

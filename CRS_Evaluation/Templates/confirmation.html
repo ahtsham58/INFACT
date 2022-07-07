@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+    <title>Chat-bot Study</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/f5b2466bb2.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</head>
+
+<body class="text-cWrite" style="background:#89b0b3;">
+ <header>
+      <div class="navbar navbar-dark bg-dark box-shadow">
+        <div class="container d-flex justify-content-between">
+          <a href="#" class="navbar-brand d-flex align-items-cWrite">
+
+          </a>
+        </div>
+      </div>
+ </header>
+
+
+
+ <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+
+    <main role="main" class="inner cover">
+
+        <div class="container">
+             <div class="col-12" >
+                <div class="col-4" style="text-align:cWrite; color:white; margin: 0 auto; " >
+                        <h2> Congratulations!</h2>
+                </div>
+                <div class="col-4" style="text-align:cWrite; color:white; margin: 0 auto;" >
+
+                </div>
+                 <hr/>
+            </div>
+            <div class="col-12">
+                <form class="form-inline" method="POST" action="index.html" id="form_confirmation">
+                    <div class="col-12" class="form-group">
+
+                        <div class="col-12" >
+
+                            <div class="col-2" style="text-align:cWrite; color:white; margin: 0 auto;" >
+
+                            </div>
+                            <div class="col-8" style="text-align:cWrite; color:white; margin: 0 auto; " >
+                                    <h5> You have completed the survey – thank you for your time!</h5>
+                            </div>
+                            <div class="col-2" style="text-align:cWrite; color:white; margin: 0 auto;" >
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:30px;width:100%">
+                                <div class="col-2" style="text-align:center ">
+                                </div>
+                                <div class="col-3" style="text-align:center ">
+                                  <label style="margin-top:0px;color:white; min-width:100%"><b> This is your Hit Code: </b></label>
+                                </div>
+
+                                <div class="col-3" style="text-align:left ">
+                                    <label id="hitcode" name="hitcode" style="margin-top:0px; background-color: #fff; font-style:bold; min-width:100%"> {{hitcode}}</label>
+                                </div>
+                                <br>
+                                <br>
+
+                                <br>
+                                <br>
+
+                            </div>
+                        </div>
+                        <br>
+                         <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:30px;width:100%">
+                                <div class="col-3" style="text-align:center ">
+                                </div>
+
+                                  <div class="col-6" style="text-align:center; text-align:cWrite; color:#eb0707; margin: 40 auto;">
+                                     <h5> It is save to close this browser tab or window.</h5>
+                                </div>
+                                <div class="col-3" style="text-align:left ">
+                                </div>
+                                <br>
+                                <br>
+
+                            </div>
+                        </div>
+
+
+
+                    <div class="col-12">
+                            <div class="row" style="margin-top:30px;">
+                                <div class="col-0">
+                                </div>
+                                <div class="col-5">
+                                </div>
+                                </div>
+                                <div class="col-2">
+                                    <div class="row" style="margin-top:0px; margin-left:10px; display:none">
+                                        {% csrf_token %}
+                                          <div class=" ">
+                                               <button  type="submit" class="btn btn-success"   onclick=""> Ok
+                                                    <i class="fas submit"></i>
+                                               </button>
+                                            </div>
+                                     </div>
+                                </div>
+                                <div class="col-5">
+                                </div>
+
+                            </div>
+                       </div>
+                    </div>
+                  </form>
+            </div>
+        </div>
+    </main>
+<br>
+<br>
+
+</div>
+
+
+
+<script>
+
+
+</script>
+
+
+<style type="text/css">
+/* Split the screen in half */
+
+
+/* If you want the content cWriteed horizontally and vertically */
+.cWriteed {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+}
+
+/* Style the image inside the cWriteed container, if needed */
+.cWriteed img {
+  width: 150px;
+  border-radius: 50%;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 4px solid rgba(227, 53, 9);
+}
+html, body, #container {
+    height: 100%;
+}
+
+  </style>
+
+
+
+
+
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+</body>
+
+</html>

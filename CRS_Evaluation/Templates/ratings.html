@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+    <title>Chat-bot Study</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/f5b2466bb2.js" crossorigin="anonymous"></script>
+
+
+</head>
+
+<body class="text-center" style="background:#89b0b3;">
+ <header>
+      <div class="navbar navbar-dark bg-dark box-shadow">
+        <div class="container d-flex justify-content-between">
+          <a href="#" class="navbar-brand d-flex align-items-center">
+
+          </a>
+        </div>
+      </div>
+ </header>
+
+
+
+ <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+
+    <main role="main" class="inner cover">
+
+        <div class="container">
+             <div class="col-12" >
+                <div class="col-12" style="text-align:center; color:white; margin: 0 auto; " >
+                        <h2> Dialog Situation</h2>
+                </div>
+                <hr/>
+                <div class="col-12" style="text-align:center;color:white; margin-left: 0; ">
+                        <label  style="text-align:center; margin: 0 ; ">Situation#:</label>
+                        <label  type="text" id="fgnum" name="fgnum" > {{fgnum}}</label>
+                </div>
+                 <div class="row">
+                    <div class="col-2" style="width: 20%;">
+                    </div>
+                    <div class="col-8" style="  min-width: 70%;text-align:left; margin-left:0px; overflow:auto;">
+                        <ul class="list-group" >
+                          {% for line in dlg_fragment %}
+                                {% if 'USER' in line %}
+                                    <li class="list-group-item list-group-item-primary"> {{ line}} </li>
+                                {% else%}
+                                    <li class="list-group-item list-group-item-secondary">{{line}}</li>
+                                {% endif %}
+                          {% endfor %}
+                          <li class="list-group-item list-group-item-danger" > <b>{{'CHAT-BOT:    ...?'}}</b></li>
+                        </ul>
+                    </div>
+                    <div class="col-2" style="width: 20%;">
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-1">
+
+                </div>
+                <div class="col-10">
+<!--                   <h3 for="rating1" style=" margin-top:30px; color:white; background-color:#098cba; "><b>What should be the next 'CHAT-BOT's response ? </b></h3>-->
+                  <h5 for="rating1" style=" margin-top:30px; color:white; background-color:#098cba; ">Please rate the following three chat-bot responses in the given dialog situation</h5>
+                </div>
+                    <div class="col-12" >
+                        <form class="form-inline" method="POST" action="ratings.html">
+                            {% csrf_token %}
+                            <div class="col-12">
+                                <div   class="row" class="col-12" style="margin-top:30px; width:100%">
+                                    <div class="col-2">
+                                      <label for="rating1" style="margin-top:10px; color:white; min-width:100%"><b>Response 1</b></label>
+                                    </div>
+                                    <div class="col-7">
+                                          <textarea readonly id="response1" name="response1"  class="form-control"  style=" justify-content: center; align-items: center; min-width: 100%;background-color:#ffffff, text-align:left; margin-left:30px; overflow:hidden" >{{response1}}
+                                          </textarea>
+                                    </div>
+                                    <div class="col-2" style="margin-left:20px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="rating1" id="rating1">
+                                            <option value="" selected>Select Rating</option>
+                                            <option value="1">Entirely meaningless</option>
+                                            <option value="2">Meaningless</option>
+                                            <option value="3">Between meaningless and meaningful</option>
+                                            <option value="4">Somewhat meaningful</option>
+                                            <option value="5">Perfectly meaningful</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-1" style="margin-bottom:20px;margin-left:20px;">
+                                        <input type="hidden" id="h1" name="h1" value="{{h1}}" style="margin-bottom:10px;margin-left:0px;">  </input>
+                                    </div>
+
+                                </div>
+
+                                </div>
+
+                            <div class="col-12">
+                                        <div class="row" class="col-12" style="margin-top:30px;width:100%">
+                                            <div class="col-2">
+                                              <label for="rating1" style="margin-top:10px; color:white;min-width:100%"><b>Response 2</b></label>
+                                            </div>
+                                            <div class="col-7">
+                                                  <textarea readonly id="response2"  name="response2"  class="form-control"  style="min-width: 100%;text-align:left; margin-left:30px;overflow:hidden " >{{response2}}
+                                                  </textarea>
+                                            </div>
+                                               <div class="col-2" style="margin-left:20px;margin-top:10px">
+                                                <select class="browser-default custom-select" required="true" name="rating2" id="rating2" >
+                                                   <option value="" selected>Select Rating</option>
+                                                    <option value="1">Entirely meaningless</option>
+                                                    <option value="2">Meaningless</option>
+                                                    <option value="3">Between meaningless and meaningful</option>
+                                                    <option value="4">Somewhat meaningful</option>
+                                                    <option value="5">Perfectly meaningful</option>
+                                                </select>
+                                            </div>
+                                            <div class="col-1" style="margin-bottom:20px;margin-left:20px;">
+                                                <input type="hidden" id="h2" name="h2" value="{{h2}}"  style=" display: none;  margin-top:15px;margin-left:0px;"> </input>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                            <div class="col-12">
+                                    <div class="row" class="col-12" style="margin-top:30px;width:100%">
+                                        <div class="col-2">
+                                          <label for="rating1" style="margin-top:10px;color:white; min-width:100%"><b>Response 3</b></label>
+                                        </div>
+                                        <div class="col-7">
+                                              <textarea readonly id="response3"  name="response3"  class="form-control"  style="min-width: 100%;text-align:left; margin-left:30px;overflow:hidden " >{{response3 }}
+                                              </textarea>
+                                        </div>
+                                            <div class="col-2" style="margin-left:20px;margin-top:10px">
+                                            <select class="browser-default custom-select" required="true" name="rating3" id="rating3">
+                                                <option value="" selected>Select Rating</option>
+                                                <option value="1">Entirely meaningless</option>
+                                                <option value="2">Meaningless</option>
+                                                <option value="3">Between meaningless and meaningful</option>
+                                                <option value="4">Somewhat meaningful</option>
+                                                <option value="5">Perfectly meaningful</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-1" style="margin-bottom:20px;margin-left:20px;">
+                                            <input type="hidden" id="h3" name="h3" value="{{h3}}" style=" ;margin-top:15px;margin-left:0px;">  </input>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            <div class="col-12">
+                                <div class="row" style="margin-top:30px;">
+                                    <div class="col-3">
+                                            </div>
+                                    <div class="col-6">
+                                    </div>
+                                    <div class="col-3">
+                                        <div class="row" style="margin-top:0px; margin-left:0px;">
+                                            <button type="submit" style="" class="btn btn-success">Submit ratings<i class="fas submit"></i></button>
+                                        </div>
+                                    </div>
+                                 </div>
+                            </div>
+                            </form>
+                    </div>
+
+
+
+
+
+
+
+
+
+        </div>
+        </div>
+    </main>
+
+<br><br><br><br>
+
+</div>
+
+
+
+<style type="text/css">
+/* Split the screen in half */
+.split {
+  height: 50%;
+  width: 48%;
+  position: fixed;
+  z-index: 1;
+  top: 80;
+  overflow-x: hidden;
+  margin-top: 20px;
+}
+
+/* Control the left side */
+.left {
+  left: 50;
+  background-color: #f7c9b5;
+   margin-left: 20px;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 4px solid rgba(227, 53, 9);
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+  margin-right:20px;
+  background-color: #90bafc;
+}
+
+/* If you want the content centered horizontally and vertically */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+}
+
+/* Style the image inside the centered container, if needed */
+.centered img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+html, body, #container {
+    height: 100%;
+}
+
+  </style>
+
+
+
+
+
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')
+</script>
+</body>
+
+</html>

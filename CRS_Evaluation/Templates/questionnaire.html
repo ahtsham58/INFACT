@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+    <title>Chat-bot Study</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/f5b2466bb2.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="text-cWrite" style="background:#89b0b3;">
+ <header>
+      <div class="navbar navbar-dark bg-dark box-shadow">
+        <div class="container d-flex justify-content-between">
+          <a href="#" class="navbar-brand d-flex align-items-cWrite">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 0 0" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle></svg>
+            <strong> </strong>
+          </a>
+        </div>
+      </div>
+ </header>
+
+
+
+ <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+
+    <main role="main" class="inner cover">
+
+        <div class="container">
+             <div class="col-12" >
+                 <div class="col-3" style="text-align:cWrite; color:white; margin: 0 auto;" >
+                </div>
+                 <div class="col-6" style="text-align:cWrite; color:white; margin: 0 auto; " >
+                        <h2> Tell us more about you</h2>
+
+                </div>
+                <div class="col-3" style="text-align:cWrite; color:white; margin: 0 auto;" >
+                </div>
+                 <hr/>
+            </div>
+            <div class="col-12">
+                <form class="form-inline" method="POST" action="" >
+                    <div class="col-12" class="form-group">
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:30px;  width:100%">
+                                <div class="col-6" style="text-align:right;">
+                                  <label style="margin-top:0px;color:white; clear:both;float:right;"><b> What is your gender? </b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px; ">
+                                        <select class="browser-default custom-select" required="true" name="gender" id="gender">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Male">Male</option>
+                                            <option value="Female">Female</option>
+                                            <option value="Other">Other</option>
+                                            <option value="Prefer not to say">Prefer not to say</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:30px;width:100%">
+                                <div class="col-6" style="text-align:right;">
+                                  <label style="margin-top:0px;color:white; clear:both;float:right;"><b> What is your age? </b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="age" id="age">
+                                            <option  value="" selected>Select</option>
+                                            <option value="18-25">Age 18-25</option>
+                                            <option value="25-30">Age 25-30</option>
+                                            <option value="30-35">Age 30-35</option>
+                                            <option value="35-45">Age 35-45</option>
+                                            <option value="45-100">Age 45- or older</option>
+                                        </select>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="width:100%">
+                                <div class="col-6" style="text-align:right;margin-top:0px">
+                                  <label style="margin-top:5px;color:white;clear:both;float:right; "><b> How often do you watch movies? </b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="movies_watched" id="movies_watched">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Everyday">Everyday</option>
+                                            <option value="Several times a week">Several times a week</option>
+                                            <option value="Once in a week">Once in a week</option>
+                                            <option value="Once every few weeks">Once every few weeks</option>
+                                            <option value="Less frequent">Less frequent</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="width:100%">
+                                <div class="col-6" style="text-align:right;margin-top:0px">
+                                  <label style="margin-top:5px;color:white; clear:both;float:right;"><b> How would you rate your fluency in English? </b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="english_level" id="english_level">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Beginner">Beginner</option>
+                                            <option value="Intermediate">Intermediate</option>
+                                            <option value="Advanced">Advanced</option>
+                                            <option value="Fluent">Fluent</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="width:100%">
+                                <div class="col-6" style="text-align:right;margin-top:0px">
+                                  <label style="margin-top:5px;color:white; clear:both;float:right;"><b> What is your level of education? </b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="education_level" id="education_level">
+                                            <option  value="" selected>Select</option>
+                                            <option value="High school or less">High school or less</option>
+                                            <option value="Bachelor’s">Bachelor’s</option>
+                                            <option value="Master’s"> Master’s</option>
+                                            <option value="Doctorate">Doctorate</option>
+                                            <option value="Other">Other</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="width:100%">
+                                <div class="col-6" style="text-align:right;margin-top:0px">
+                                  <label style="margin-top:5px;color:white; clear:both;float:right;"><b> Have you ever interacted with any chat-bot? </b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="movie_crs" id="movie_crs">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Yes">Yes</option>
+                                            <option value="No">No</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="width:100%">
+                                <div class="col-6" style="text-align:right;margin-top:0px">
+                                  <label style="margin-top:5px;color:white; clear:both;float:right;"><b> Have you ever interacted with a chat-bot for getting movie recommendations? </b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="other_domain_crs" id="other_domain_crs">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Yes">Yes</option>
+                                            <option value="No">No</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:0px;">
+                                <div class="col-3">
+                                </div>
+                                <div class="col-3">
+                                </div>
+                                <div class="col-6">
+                                    <div class="row" style="margin-top:0px;">
+                                        {% csrf_token %}
+                                          <div class=" ">
+                                               <button type="submit" class="btn btn-success"> Next
+                                                    <i class="fas submit"></i>
+                                               </button>
+                                            </div>
+                                     </div>
+                                </div>
+                            </div>
+                    </div>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+<br>
+<br>
+</div>
+
+
+
+
+
+
+<style type="text/css">
+/* Split the screen in half */
+
+
+/* If you want the content cWriteed horizontally and vertically */
+.cWriteed {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+}
+
+/* Style the image inside the cWriteed container, if needed */
+.cWriteed img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+html, body, #container {
+    height: 100%;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 4px solid rgba(227, 53, 9);
+}
+
+  </style>
+
+
+
+
+
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+</body>
+
+</html>

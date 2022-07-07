@@ -1,0 +1,940 @@
+CONVERSATION:1
+USER: Hello,
+CHAT-BOT: How are you today... What kind of movies are you looking for
+USER: am looking for a movie a lot like "Braveheart (1995)" do you have any suggestions?
+CHAT-BOT: Well one that I found to be quite a bit like it was "The Patriot  (2000)"
+USER: That is a great movie! I liked "The Patriot  (2000)" a lot, I love how Mel Gibson acts, do you have other suggestions?
+CHAT-BOT: Well then you really might like "We Were Soldiers (2002)" One of my favorite war like movies though has to be "Pearl Harbor  (2001)" I know it is quite different but still good
+USER: Who is the star actor of that movie?
+CHAT-BOT: in "We Were Soldiers (2002)" it is Mel Gibson
+USER: I liked "Pearl Harbor  (2001)"  a lot liked the actors and the plot t made me cry
+CHAT-BOT: yeah makes me cry everytime another good one is "Saving Private Ryan (1998)"
+USER: and ok I think ill give "We Were Soldiers (2002)" a shot
+CHAT-BOT: it is really good hope you like it have a great day
+CONVERSATION:2
+CHAT-BOT: hello what kind of movies are you interested in?
+USER: hi there i like action movies stuff like "The Avengers  (2012)" or my personal favorite movie is "Iron Man  (2008)" i wish they would make another *(
+CHAT-BOT: have you seen "The Incredible Hulk  (2008)" or "Guardians of the Galaxy  (2014)"
+USER: oh yeah saw them both when they first came out
+CHAT-BOT: oh ok
+USER: I'm looking for something new though
+CHAT-BOT: have you seen "Doctor Strange  (2016)"
+USER: I don't think so tell me about it
+CHAT-BOT: doctor strange is basically iron man but with magic he is a witty man with no powers he ventures to land and releases his super hero potential
+USER: i think i have seen part of it but not the whole thing you know I will check it out for sure thanks!
+CHAT-BOT: no problem goodbye
+USER: goodbye!
+CONVERSATION:3
+CHAT-BOT: Hi! What kind of movies do you like?
+USER: can you recommend any type of movie i have no preference
+CHAT-BOT: How about "A Wrinkle in Time "?
+USER: i havent seen that one, is it a family movie?
+CHAT-BOT: Yes, it's a story of a family helping each other through a interesting and difficult time. The book was good.
+USER: sounds good anymore what about something action packed
+CHAT-BOT: Also "Jumanji  (2017)"?
+USER: like "Taken  (2008)" or "The Sixth Sense (1999)"
+CHAT-BOT: Or "The Matrix (1999)"?
+USER: i havent seen "Jumanji  (2017)" the "The Matrix (1999)" was really good and action packed
+CHAT-BOT: Ok, goodbye.
+CONVERSATION:4
+CHAT-BOT: hello, how are you?
+USER: Hi can you recommend a fantasy movie?
+CHAT-BOT: sure, one sec How about "The Shape of Water  (2017)" I really enjoyed it.
+USER: something other than "The Lord of the Rings: The Fellowship of the Ring (2001)" I loved "Pan's Labyrinth (2006)" "The Shape of Water  (2017)" is like at the top of my list right now I havent seen it yet but I want to
+CHAT-BOT: I haven't seen that one, I did see "Geostorm (2017)" it was amazing
+USER: You haven't Seen "Pan's Labyrinth (2006)" Well if you liked "The Shape of Water  (2017)" you should check it out
+CHAT-BOT: no I have not, I'll have to add it to my list
+USER: I'll pass on "Geostorm (2017)" I hate disaster movies Any other ideas?
+CHAT-BOT: yes, "Thelma " it was really good
+USER: is that a fantasy movie?
+CHAT-BOT: yes it is
+USER: hmm never heard of it ill have to check it out
+CHAT-BOT: you should give it a chance, its really good, a little hard to follow at first, just need to pay close attention at the beginning
+USER: I have a BA in film theory
+CHAT-BOT: awesome!
+USER: Im sure Ill be able to follow along lol
+CHAT-BOT: lol I'm sure you will haha
+USER: Thanks for the recommendation
+CHAT-BOT: no problem, I hoped I helped! have a great day.
+USER: goodbye
+CHAT-BOT: goodbye
+CONVERSATION:5
+CHAT-BOT: hey there what movies do you like
+USER: hello i am a HUGE horror buff!! wehat can you offer me? I love the classic hortrors like "A Nightmare on Elm Street (1984)" or "Halloween  (1978)"
+CHAT-BOT: awesome! those are def classics i love "The Texas Chainsaw Massacre 2 (1986)"
+USER: "The Blob (1958)" is my fav of all time that is a great one too
+CHAT-BOT: oh yeah for sure!
+USER: any more suggestions?
+CHAT-BOT: i love the classic "Psycho  (1960)"
+USER: oh yeah, great choice! i forgot that one and "Night of the Living Dead "
+CHAT-BOT: ive always been a big "Saw  (2004)" fan as well
+USER: YES!! Jigsaw is my Hero haha
+CHAT-BOT: hahah thats awesome. hard to find people that appreciate that movie
+USER: well, he's not a real killer if he didn't kill anybody, right?
+CHAT-BOT: yup exactly haha
+USER: hahaha
+CHAT-BOT: hope you liked the suggestions! good night :)
+CONVERSATION:6
+USER: Hi, I'm looking for a good comedy Something like "Airplane! (1980)"
+CHAT-BOT: HI
+USER: Or "Caddyshack (1980)" Or "Ghostbusters (1984)"
+CHAT-BOT: How about "Dumb and Dumber (1994)" and the newer one "Dumb and Dumber To (2014)"
+USER: I think those sound like some good one I'll have to check them out
+CHAT-BOT: Ok great!
+USER: Have a great day
+CONVERSATION:7
+USER: Hello!
+CHAT-BOT: Hey there Have you seen any good films lately
+USER: I have I recently just watched "National Treasure  (2004)" for the first time a few days ago Great movie
+CHAT-BOT: Tell me all about them I love Nicolas Cage Or I used too
+USER: I also watched "Why Him (2016)" a few months ago. Very funny movie
+CHAT-BOT: He was good in "Bad Lieutenant: Port of Call New Orleans (2009)"
+USER: Never seen that one
+CHAT-BOT: Check it out
+USER: I think he does a pretty good job acting. I don't mind his movies I definitely will Right now i'm stuck watching "High School Musical " and "Camp Rock" . My daughter loves them
+CHAT-BOT: Yeah.
+USER: It was nice chatting with you. Thanks for the suggestion
+CHAT-BOT: Thanks for these recommendations. Bye.
+CONVERSATION:8
+USER: Hello! I am looking for a good horror flick Something along the lines of "It Follows (2014)" "Get Out (2017)"
+CHAT-BOT: Great Do you like horror/thriller combinaiton or mainly horror?
+USER: I like combinations sometimes
+CHAT-BOT: How about "The Blair Witch Project (1999)" it was pretty cray
+USER: Ah yes, seen that one and loved it
+CHAT-BOT: Or maybe a vintage movie like "Rosemary's Baby  (1968)" That's one's a bit out there.
+USER: I've actually never seen that one I know its a classic, so I will check it out for sure Thank you!
+CHAT-BOT: I also really enjoyed "The Shining  (1980)" and it had me on the edge of my seat.
+USER: Ah yes, that's a great one
+CHAT-BOT: No problem. Glad I could help. Goodbye.
+USER: Good bye
+CONVERSATION:9
+CHAT-BOT: Hey there!
+USER: hi could you help me find a good drama or thriller? i like stuff like "A Perfect Murder (1998)" i dont like stuff like "Twilight  (2008)"
+CHAT-BOT: lol I don't like "Twilight  (2008)" either
+USER: do you have any suggestions? my timer has less than 4 minutes remaining
+CHAT-BOT: What about "Fatal Attraction (1987)" ? Michael Douglas is pretty good.
+USER: I did like that one a lot! I like Mchael Douglas. Maybe one more please?
+CHAT-BOT: "Don't Say a Word (2001)" also starring michael
+USER: I havent seen that. I thinkit is with Britney Murphy right?
+CHAT-BOT: That's the one. :)
+USER: I like her too so i will try that one. thank you! have a good one.
+CONVERSATION:10
+USER: Hey there.
+CHAT-BOT: hi I recommend "The Shining  (1980)" what do you think?
+USER: One of my favorite movies is "The Fountain (2006)" I love "The Shining  (1980)"
+CHAT-BOT: That's cool -- "The Fountain (2006)" has a good concept, I think
+USER: I'm a big fan of Rachel Weisz.
+CHAT-BOT: "The Mummy  (2017)" is always good
+USER: Anything she's in I'll watch.
+CHAT-BOT: sorry.. "The Mummy  (1999)" ..
+USER: I like the original "The Mummy  (1999)"
+CHAT-BOT: agreed
+USER: Is she in anything upcoming?
+CHAT-BOT: i would hope not, she's better off just being stuck in the 1999 movie :D
+USER: I liked the "The Constant Gardener  (2005)"
+CHAT-BOT: shes in "Disobedience  (2003)" .. but its the same title in a 2018 movie so yeah, not that one
+USER: I'll check out "Disobedience  (2003)"
+CHAT-BOT: ok sounds good, fun talkin
+USER: bye
+CONVERSATION:11
+USER: Hello
+CHAT-BOT: Hi What kinds of movies do you like?
+USER: I like horror "The Exorcist  (1973)" is my favorite
+CHAT-BOT: Me too, did you see "It  (2017)"
+USER: I did not. I don't think it is good
+CHAT-BOT: I love "The Exorcist  (1973)" It's a classic I like comedies too, i love "Caddyshack (1980)"
+USER: It is. I am a fan of horror movies. That is my favorite genre.
+CHAT-BOT: What is another horror movie you enjoy?
+USER: I love "The Shining  (1980)"
+CHAT-BOT: "The Shining  (1980)" is another classic. you have great taste
+USER: I like Caddyshack a lot too Thanks. Thanks for the recommendations.
+CHAT-BOT: Thank you too, i hope you have a great day
+USER: You too. Bye
+CONVERSATION:12
+USER: Hi, can you recommend a good Resse Witherspoon movie. Any genre will do.
+CHAT-BOT: Yes I can "Walk the Line (2005)" is a good one "Sweet Home Alabama  (2002)" is another good choice
+USER: Is that the biopic ?
+CHAT-BOT: It is a biopic "Four Christmases (2008)" is a comedy with her in it Last recommendation for these movies is "Legally Blonde (2001)"
+USER: I have heard good things about "Walk the Line (2005)"
+CHAT-BOT: That movie is famous and a classic
+USER: I never really went in for "Legally Blonde (2001)" I forgot she even did that one.
+CHAT-BOT: Its not for everyone Well I hope I helped
+USER: it's not a bad film, it's just it annoys me when girls are ditzy in films. Sure did thanks. Have a good day!
+CONVERSATION:13
+CHAT-BOT: Hi, how are you?
+USER: Hi there!  I'm looking for a good romantic comedy - not too ditzy, though.
+CHAT-BOT: "Love Actually (2003)" is a good one!
+USER: I haven't seen that one.  What's it about?
+CHAT-BOT: It follows 9 different couples and their relationships before christmas It's good. So is "The Proposal  (2009)"
+USER: Who's in it? Ah.  I haven't seen that one either.
+CHAT-BOT: Have you seen "27 Dresses (2008)"
+USER: No, I haven't.  Who's in that one?
+CHAT-BOT: Katherine Heigl
+USER: Hmmm.  I don't love her...  Doesn't Woody Allen have a new movie out?
+CHAT-BOT: Yes! It's called "Wonder Wheel (2017)"
+USER: How are the ratings on that one? I mean the reviews
+CHAT-BOT: 3/5 They aren't all too great
+USER: Okay. Well, I'm satisfied with these suggestions... Thanks!
+CHAT-BOT: What's a movie that you liked? Don't go
+USER: Okay.  Let's see.  I liked Four Weddings and a Funeral.
+CHAT-BOT: It's not done! Tag it! "Four Weddings and a Funeral (1994)" There we go
+CONVERSATION:14
+USER: Hello! How are you today?
+CHAT-BOT: have you seen "The Last Contract (1998)"
+USER: I haven't. I prefer to watch movies with my children. Do you have any suggestions for a family night movie?
+CHAT-BOT: "Madagascar  (2005)"  is a good choice
+USER: Oh you are right! We really enjoyed that one and "Penguins of Madagascar (2014)". What do you think of "Despicable Me (2010)" ?
+CHAT-BOT: never saw it I liked "Cloudy with a Chance of Meatballs 2 (2013)"
+USER: Oh we can't watched that one yet. I really enjoyed "Charlie and the Chocolate Factory  (2005)" .
+CHAT-BOT: great choice
+USER: Did you prefer it over "Willy Wonka & the Chocolate Factory (1971)" ?
+CHAT-BOT: nothing beats willy wonka
+USER: I agree. I really enjoyed Wilder in "Young Frankenstein (1974)"
+CHAT-BOT: sure sounds amazing
+CONVERSATION:15
+USER: Hello how you are you today?
+CHAT-BOT: Hi! I'm great- hope you are too! I love comedies and dramas- and horror too- what about you?! I just saw a great horror movie- but I know most people aren't huge horror fans- "It Follows (2014)" - it was REALLY good!!
+USER: Same here . I really like movies with the rock like "Central Intelligence (2016)"
+CHAT-BOT: I love the Rock- have you seen "Baywatch  (2017)" ? "The Pacifier (2005)" is good too if you have not seen it yet- it is sort of old now
+USER: I havent yet, but I really want to
+CHAT-BOT: You should definitely watch it- and "Jumanji  (2017)" it is hilarious!! I also like anything with Chris Farley- do you like him- I love "Tommy Boy (1995)"
+USER: I liked but my love for Robin williams makes me like the older "Jumanji (1995)"  more
+CHAT-BOT: Oh I love Robin Williams too!! So sad!!
+USER: my husband loves him
+CHAT-BOT: Nice talking to you!!
+CONVERSATION:16
+CHAT-BOT: good afternoon
+USER: Hello
+CHAT-BOT: what can i suggext for you today?
+USER: Something scary
+CHAT-BOT: alright how about "It  (2017)"  "Maximum Overdrive (1986)" "Carrie  (2013)" and "Frankenstein  (2004)" all 4 will surely give you a good chill
+USER: I havent seen "Frankenstein  (2004)"
+CHAT-BOT: Well, i guess it is a great suggestion now
+USER: yes it is
+CHAT-BOT: Do you have any favorites too?
+USER: I liked "The Conjuring (2013)"
+CHAT-BOT: cool, i like that too along with the "Annabelle  (2014)"  series
+USER: Yes that was a good one too Thank you for your suggestions
+CHAT-BOT: im glad i could help you I hope you enjoy your movies! bye
+CONVERSATION:17
+CHAT-BOT: Hello!
+USER: i have not seen "Star Wars: Episode VIII – The Last Jedi (2017)" what am i missing
+CHAT-BOT: Its a pretty good movie with intense action
+USER: i mean, will it change my life like "The Dark Knight  (2008)" or just be disappointing
+CHAT-BOT: probably somewhere in the middle
+USER: i couldn't make it through "The Hobbit: An Unexpected Journey (2012)"
+CHAT-BOT: I liked it.
+USER: I like "Star Wars  (1977)" a lot more since they took it away from lucas
+CHAT-BOT: I would give "Rogue One: A Star Wars Story (2016)" a try
+USER: "Rogue One: A Star Wars Story (2016)" was a pretty good action flick
+CHAT-BOT: I've always liked "Battlestar Galactica: Razor"
+USER: i have not seen "Battlestar Galactica: Razor" but now I am going to loved the tv show until it got bad
+CHAT-BOT: Great you won't be sorry
+USER: have not watched a "James Bond  (2015)" in almost a decade
+CHAT-BOT: You are missing out! I loved "Skyfall (2012)"
+USER: excellent! then i can watch them all at once in a marathon
+CHAT-BOT: It is worth it Have a great night!
+USER: i have "The Matrix (1999)" in the queue, just for old time's sake goodbye!
+CHAT-BOT: good choice! bye!
+CONVERSATION:18
+CHAT-BOT: Hello.
+USER: Hi I'm looking for a movie like "The Princess Bride  (1987)" Hello Swashbuckling, humor, that sort of thing Do you have any suggestions?
+CHAT-BOT: How about "Bride Wars (2009)" or "Ella Enchanted  (2004)"? I liked these and that they were humorous.
+USER: Hmm, I've never heard of either of those
+CHAT-BOT: Did you like "The Princess Bride  (1987)" alot?
+USER: Yeah, it was mostly offbeat humor
+CHAT-BOT: Then you should like these 2 movies, similiar.
+USER: "Bride Wars (2009)" probably isn't my cup of tea Any other suggestions?
+CHAT-BOT: What about the other one?
+USER: Sounds like it might be interesting. Will give it a try.
+CHAT-BOT: Um, maybe "When Harry Met Sally... (1989)", it's old but good. I saw and enjoyed it.
+USER: Oh I loved that one! Great suggestion Ok, thanks for the suggestions Have a good day! Goodbye
+CHAT-BOT: You too. Good bye.
+CONVERSATION:19
+USER: Hi. How are you doing?
+CHAT-BOT: Hi. I am great. What about you?
+USER: Good. I absolutely love good movies. "27 Dresses (2008)" is one of my favorites.
+CHAT-BOT: What kind of movies do you like? I have never heard of that one.
+USER: I like most genres except for horror and speculative(fantasy/science fiction).
+CHAT-BOT: Are you into funny movies? I like "Step Brothers  (2008)" and "Central Intelligence (2016)" .
+USER: "27 Dresses (2008)"  is a romantic comedy. I also love "10 Things I Hate About You (1999)"
+CHAT-BOT: I like fantasy also. Not too much horror.
+USER: If you liked those movies, you are likely to like "Rush Hour  (1998)" and its sequels
+CHAT-BOT: I will have to check those out.
+USER: Chris Rock and Jackie Chan Too funny!
+CHAT-BOT: Yes i really like that one!
+USER: I loved "Switch  (2013)"  with Jason Bateman also.
+CHAT-BOT: I cannot remember if i seen that one. Sounds familiar. It was great chatting with you. Have a great day. Bye.
+USER: Two best friends who don't realize they love each other. I enjoyed talking with you to. Have a great day! Bye!
+CONVERSATION:20
+CHAT-BOT: Hi. What kind of movies do you like?
+USER: Hi! How are you?
+CHAT-BOT: I'm good. How are you?
+USER: I love comedies! I just watched "Father Figures (2017)" and didn't like it at all. Can you recommend me a good comedy? I'm doing great I think "Jumanji  (2017)" was really funny
+CHAT-BOT: I can highly recommend "Game Night (2018)" it's in theaters right now, it's hilarious.
+USER: really? I've heard about it and i watched a trailer and it looks interesting but isn't it a little violent?
+CHAT-BOT: Also, "Beerfest (2006)" is on Netflix right now if you have that, it's super funny. I think it's the type of violence that's funny, like a dark comedy.
+USER: I've never watched "Beerfest (2006)" . Is it a college movie?
+CHAT-BOT: No, it's a broken lizard production. They made "Super Troopers (2001)"
+USER: I've never heard of those movies. I think i will watch "Game Night (2018)" ! i really like the cast. thank you for helping me
+CHAT-BOT: Okay, sounds good. You're welcome! Bye!
+USER: bye
+CHAT-BOT: Bye!
+CONVERSATION:21
+CHAT-BOT: Hello What kind of movies do you like?
+USER: Oh all sorts! I just watched "Get Out (2017)" last night.  WOW!
+CHAT-BOT: I haven't seen that one yet.
+USER: It's a modern take on a horror film. Not super gory more Steven King like.
+CHAT-BOT: Have you seen "The Visit  (2000)" I thought that was very good. Did you see "Crash  (2004)" ? I enjoyed that a lot.
+USER: No. I've seen "The Others  (2001)" I think that's the one with Nicole Kidman. I really like that.
+CHAT-BOT: I saw that as well and thought it was pretty good. You should check out "Happy Death Day  (2017)" I think you will like that one.
+USER: Is "Crash  (2004)" a horror film?
+CHAT-BOT: No all the others are horror.
+USER: ok thanks sound like some movies to watch this weekend.
+CHAT-BOT: It's a good weekend for watching movies where I am.
+USER: where is that?
+CHAT-BOT: We are going to have rain, so it will be perfect. In NJ. I hope you have a good night!
+USER: sweet.  it's super windy here in SoCal so I think I might just rewatch "Twister  (1996)" you too!
+CONVERSATION:22
+USER: Hi there!
+CHAT-BOT: Hi
+USER: I am looking for a family friendly movie
+CHAT-BOT: What type of movies do you like? ok How about "The Lego Batman Movie (2017)"
+USER: We did really like that one. But I was hoping to take a break from aniamted movies
+CHAT-BOT: ok, what about "National Lampoon's Vacation (1983)" or "Mrs. Doubtfire (1993)"
+USER: I liked both of those, but I'm nervous about the maturity level of "National Lampoon's Vacation "
+CHAT-BOT: ok, How about "Mr. Mom (1983)"
+USER: Is that with Michael Keeton? I think I remember watching it.
+CHAT-BOT: yes you should try that one
+USER: I will thanks. Have a good day!
+CHAT-BOT: glad, I could help bye
+CONVERSATION:23
+CHAT-BOT: Hi What type of movies do you like?
+USER: HI! Know any good comedies?  I love stuff like "Men in Black  (1997)" or "Bad Moms (2016)"
+CHAT-BOT: How about "A Bad Moms Christmas (2017)" or "Dirty Grandpa (2016)"? How about "A Bad Moms Christmas (2017)" or "Dirty Grandpa (2016)"? How about "A Bad Moms Christmas (2017)" or "Dirty Grandpa (2016)"? How about "A Bad Moms Christmas (2017)" or "Dirty Grandpa (2016)"? How about "A Bad Moms Christmas (2017)" or "Dirty Grandpa (2016)"?
+USER: I've seen "A Bad Moms Christmas (2017)" it was funny.  I did not see "Dirty Grandpa (2016)" but will have to.
+CHAT-BOT: Yes, you should,  It was very funny
+USER: Thank you for your suggestions!
+CONVERSATION:24
+CHAT-BOT: Hi
+USER: Hello
+CHAT-BOT: Tell me a movie/actor or director you like
+USER: I saw "The Wolverine  (2013)"  recently made me love those kind of movies
+CHAT-BOT: Awesome. I'm a big X-Men Fan. Hav eyou seen "X-Men Origins: Wolverine (2009)" How about "Logan  (2017)" ?
+USER: Yes Logan is very interesting well made It's just a pity that it's all fiction..hahaha
+CHAT-BOT: Another good one you may like is "The Divergent Series"  about a girl in a dystopian world Interesting LOL Yeah I would love anamadium claws. LOL Hope you liked these suggestions
+USER: I love them all especially Divergent Series. Nice chatting with you. Have an Amazing weekend ahead
+CHAT-BOT: ok
+CONVERSATION:25
+CHAT-BOT: Hi!  how are you?
+USER: Good thanks. I am looking for a good kids movie that isn't Disney.
+CHAT-BOT: Oh great!
+USER: Something like "Shreck (1990)" Any suggestions?
+CHAT-BOT: I liked "Frozen (2013)" "Moana  (2016)" and of course ! ANd also "Aladdin  (1992)"
+USER: But those are both Disney movies.
+CHAT-BOT: Oh yes sorry I forogt that pixar is disney I can't think of many non disney kids movies.  Any other genre you like?
+USER: Not really. I guess I will just have to go with a Disney movie than. Maybe "Pete's Dragon  (2016)"
+CHAT-BOT: Oh yes that sounds good too Ok well thanks! Bye!
+USER: Bye
+CONVERSATION:26
+USER: hi i like ghost movies "The Conjuring (2013)" it is one of my favourites can you suggest me more ghost movies can you suggest me more ghost movies
+CHAT-BOT: mhm, I've never seen. So you're into horror movies?
+USER: yes
+CHAT-BOT: Have you seen "The Shining  (1980)", or "Hush  (2016)" ?! Those are both great thrillers!
+USER: i have not seen these movies are they good
+CHAT-BOT: Very! "Hush  (2016)"  has a very high rating and can be found on Netflix! If you enjoy zombie movies, I'd also highly recommend "Train to Busan (2016)". Also found on Netflix.
+USER: the last movie i saw was "Insidious  (2011)" it was good
+CHAT-BOT: I agree!
+USER: you have see a lot of ghost movies
+CHAT-BOT: Yes!
+USER: it was nice chatting with you thank you good bye
+CONVERSATION:27
+CHAT-BOT: hello
+USER: hi can you help me. i am looking for a good horror flick
+CHAT-BOT: "Scream 2 (1997)" I like the whole serious "Hannibal  (2001)" was another good one
+USER: not bad but i want lots of guts and blood that was a good one
+CHAT-BOT: hmm let me think
+USER: "The Texas Chain Saw Massacre (1974)"  was the best at that time
+CHAT-BOT: yes, that was a really good movie "The Texas Chainsaw Massacre  (2003)" the remake was really good too I didn't think the "Texas Chainsaw 3D (2013)" was the best
+USER: that was good too...
+CONVERSATION:28
+CHAT-BOT: Hi What are your favorite movies?
+USER: Hi! I liked "Star Wars  (1977)" and "Guardians of the Galaxy  (2014)".
+CHAT-BOT: Have you seen "War for the Planet of the Apes (2017)" yet?
+USER: Not yet.
+CHAT-BOT: Maybe you would also like "Wonder Woman  (2017)" . Or "Raiders of the Lost Ark (1981)" .
+USER: Ok cool.
+CHAT-BOT: Both are fun movies.
+USER: I liked "Raiders of the Lost Ark (1981)" a lot.
+CHAT-BOT: Maybe you'd like "The Mummy  (1999)" too.
+USER: Alright. Thanks, goodbye.
+CHAT-BOT: Bye
+CONVERSATION:29
+USER: Hi.
+CHAT-BOT: Hello
+USER: I'm looking for a good comedy.
+CHAT-BOT: "Austin Powers: International Man of Mystery (1997)" is a funny one
+USER: I lIke "Masterminds  (2016)" Austin Powers is good.  I've seen all of those.
+CHAT-BOT: "Monty Python and the Holy Grail (1975)" is funny too if you like that sort of humor
+USER: I've seen that one too.  It's really funny. Any more recent comedies you would suggest?
+CHAT-BOT: "Jumanji  (2017)" was pretty funny
+USER: I haven't seen that one yet. Thanks for the suggestion.
+CHAT-BOT: Check it out. I think you'll like it Have a great day
+USER: Thanks you too. Bye.
+CONVERSATION:30
+CHAT-BOT: hi
+USER: Hi, can you recommend a movie similar to "Love and Basketball (2000)"
+CHAT-BOT: Woow I recomended "Click  (2006)"  and "D-17  (2008)" Very good movies for you
+USER: what about a movie similar to "The Lucky One  (2012)"
+CHAT-BOT: I don't know Seen "Killa  (2015)" Is very good for you
+USER: i will look at it, bye
+CONVERSATION:31
+USER: hi
+CHAT-BOT: Hi, how can I help you with?
+USER: I am looking for an action movie
+CHAT-BOT: great, what are some movies you like?
+USER: "Black Panther (2018)" was good
+CHAT-BOT: you might like "Ghost in the Shell  (2017)"
+USER: have not seen it. Is it good?
+CHAT-BOT: or possibly "Geostorm (2017)"
+USER: I will have to check it out
+CHAT-BOT: It is, it has Scar-Jo I think you will like it there is also "Fast 8"
+USER: Thanks I have not seen any "Fast & Furious  (2009)" movies I will check them out too. Thanks have a nice day
+CHAT-BOT: great, have a great day
+USER: bye
+CONVERSATION:32
+CHAT-BOT: hello what can i help you with? What is your fav genre?
+USER: hey there!
+CHAT-BOT: hi
+USER: i love horror
+CHAT-BOT: Awesome me too!! I love "Dawn of the Dead  (2004)"
+USER: thats a good one!
+CHAT-BOT: or "Cannibal Holocaust (1980)"
+USER: reminds me of "The Hills Have Eyes "
+CHAT-BOT: yep exactly or "Tokyo Gore Police (2008)"
+USER: oo i must add that to my list!
+CHAT-BOT: you wont be dissapointed
+USER: great suggestions thanks!
+CHAT-BOT: which one do you like the most?
+USER: "Dawn of the Dead  (2004)" for sure!
+CHAT-BOT: nice! enjoy then! bye
+CONVERSATION:33
+USER: Hello, I am looking for movies for a night with friends that I have coming up.  Any suggestions?
+CHAT-BOT: "Black Panther (2018)" is a great movie
+USER: When I was younger I liked movies like "A Nightmare on Elm Street (1984)"
+CHAT-BOT: I really love action movies
+USER: Oh I haven't seen that one yet, but I really want to.
+CHAT-BOT: You may be interested in "The Texas Chainsaw Massacre  (2003)"
+USER: I like action movies too.  I love "X-Men  (2000)"  and "X-Men: The Last Stand (2006)" .
+CHAT-BOT: I have every x-men movie
+USER: Oh yes I have seen "The Texas Chainsaw Massacre  (2003)".
+CHAT-BOT: I love "X-Men  (2000)"
+USER: I haven't seen it yet but I want to, "Logan  (2017)" looks amazing.
+CHAT-BOT: "Logan  (2017)"  is the great
+USER: I will definitely have to check that out than.
+CHAT-BOT: Have you seen "Avengers: Infinity War (2018)" That may be a great movie for an upcoming movie night
+USER: No I haven't seen that yet.  I haven't seen any new movies in a while. For sure I will have to check that one out too.  Sounds like it will be an action packed night. Thank you for your help.
+CHAT-BOT: Yes you are welcome, I am most delighted to help
+USER: Have a great night, good bye.
+CHAT-BOT: Ta! Good Night
+CONVERSATION:34
+CHAT-BOT: Hi!
+USER: Hello, how are you?  I really like psychological thrillers and supernatural horror movies.  I loved "Memento  (2000)" and "The Conjuring (2013)"
+CHAT-BOT: Have you seen "Shutter Island  (2010)" ?
+USER: Yes, I loved that and the book!  Fabulous movies movie
+CHAT-BOT: "The Gift  (2015)" was another really interesting one.
+USER: Oh yeah, about the woman and her husband?  I liked that ok, too. "Minority Report  (2002)" is another great one
+CHAT-BOT: Yes that one was interesting. I liked "One Hour Photo (2002)" as well.
+USER: Oh yeah!  It's been awhile since I saw that, but I do remember liking it.  It had Robin Williams, I believe.  I need to re watch it.
+CHAT-BOT: Yeah he can be a very good actor. I loved him in "The Angriest Man in Brooklyn (2014)"
+USER: I have not seen that.  I would like to try that one.  He definitely can be very good, seems to have kinda fallen off lately maybe
+CHAT-BOT: That was a comedy movie he was pretty funny in it. I also liked his work in "Bicentennial Man  (1999)"
+USER: I have not seen that either.  So there are two Robin Williams movies I could check out.  Thank you for the suggestions, I hope you have a happy new year!
+CHAT-BOT: Sure! You too!
+CONVERSATION:35
+CHAT-BOT: hello
+USER: Hey, how are you?
+CHAT-BOT: i am good, and you
+USER: Good, know any decent action flicks like "Die Hard (1988)"?
+CHAT-BOT: let me see "Cellular  (2004)" "The Punisher  (2004)"
+USER: Those were good I really enjoyed "Eagle Eye (2008)"
+CHAT-BOT: yes they were oh yeah i liked that one did you like "Mr. & Mrs. Smith  (2005)" ?
+USER: Yeah good films, I'll have to re-watch it Thanks for the ideas, you have a good night
+CHAT-BOT: lol I have been making a list to re watch movies bye and good night
+USER: Good night
+CONVERSATION:36
+CHAT-BOT: hello
+USER: Can you give me any movie suggestions?
+CHAT-BOT: tell me what kind of movies do you like?
+USER: I like comedy movies
+CHAT-BOT: i would recommend you "Click  (2006)"  it is very funny i also would recommend you "You Don't Mess with the Zohan (2008)"
+USER: I liked "Click  (2006)" I thought it was pretty good.
+CHAT-BOT: those are really funny, have you seen them? have you seen "American Pie  (1999)" ?
+USER: I havent seen "You Don't Mess with the Zohan (2008)" what it about?
+CHAT-BOT: or "Scary Movie (2000)" it is a movie mady by Adan Sandle
+USER: I liked those movies I thought they were pretty good
+CHAT-BOT: it is pretty funny you know almost all the movie he has done are very funny
+USER: Yeah I love how he acts
+CHAT-BOT: hahahaa, those are old movies but if you see them again you laugh so much
+USER: I think I will watch "You Don't Mess with the Zohan (2008)"  sounds interesting
+CHAT-BOT: i hope i have helped have a good evening
+USER: and maybe rewatch the others thanks bye
+CONVERSATION:37
+USER: hello can you recommend a good suspense movie
+CHAT-BOT: oh a good suspense movie ! sure can .
+USER: thanks
+CHAT-BOT: an oldie but goodie for me is swimfan its about a girl who stalks the star swimmer at her high school . i have it on dvd and watch it here and there still lol
+USER: i haven n't seen that . sound good
+CHAT-BOT: also , i loved the purge and the purge : election year . those two movies had me on the edge of me seat . it gets kind of gore-y , but you never know whats going to happen next . which always makes a good suspense movie
+USER: those were really good movies too , iv seen both of them can you give me one more
+CHAT-BOT: sure ! last year get out came out and that one is a nail bitter too !
+USER: i have n't seen that one , i 'll have to check it out ... thanks for the help goodbye
+CONVERSATION:38
+CHAT-BOT: Hello!
+USER: hello
+CHAT-BOT: What type of movies do you like?
+USER: im looking for a good family film
+CHAT-BOT: Well, "I Can Only Imagine (2018)" is out now. It wouldn't be good for little kids though.
+USER: something like "Inside Out  (2015)"
+CHAT-BOT: They would be bored.
+USER: what is iccan only... about?
+CHAT-BOT: Have you seen "Up  (2009)"?
+USER: best  min love story ever .. I have seen it but not the kids
+CHAT-BOT: "I Can Only Imagine (2018)" is a story of a Christian singer who had a rocky relationship with his dad. Full of family values and such, but not amusing to small children.
+USER: do you think kids would like "Guardians of the Galaxy  (2014)" ?
+CHAT-BOT: It got great reviews, it is PG-13 though. It depends how old and mature your kids are and if you are okay with that rating.
+USER: I guess ill try "Up  (2009)"  then.  assuming they haven't seen it with out me.  thanks for the help
+CHAT-BOT: Have a good time!
+CONVERSATION:39
+CHAT-BOT: Hello stranger!
+USER: Hello. I'm looking to see a good action film like "Baby Driver  (2017)" Do you recommend any?
+CHAT-BOT: Know any good random movies like "To Wong Foo, Thanks for Everything! Julie Newmar (1995)" or "The Birdcage (1996)"? Ah, I still haven't seen that one yet. I heard the soundtrack is amazing.
+USER: It is and ties in well with the movie
+CHAT-BOT: I suppose if you are looking for action movies with a light British feel and a good soundtrack, "Kingsman: The Golden Circle"
+USER: I have not seen the first two you have mentioned, but I liked "The Birdcage (1996)" I still haven't seen "Kingsman: The Golden Circle" but I really liked "Kingsman: The Secret Service (2014)"
+CHAT-BOT: Ah, the first one is just a long title. Has Wesley Snipers in drag lol "Kingsman: The Secret Service (2014)" is the superior movie, admittedly. However, both are worth watching.
+USER: Ah, haha That is hilarious i'm sure I'll enjoy it.  Thank you for the recommenation.
+CHAT-BOT: It is actually a good movie. You should check it out when you are feeling vulnerable if that makes sense lol. A feel good movie, in the same manner as "The Breakfast Club (1985)"
+USER: That is a great one as well.  Thank you.
+CHAT-BOT: No problem. Any last minute ideas for what I should watch tonight? I  will take anything, more random the better!
+USER: I'm not sure. I am watching "Them! (1954)" at the moment Haha
+CHAT-BOT: Ha! I haven't watched that in awhile! I might just do that. Thanks.
+USER: You're welcome. Thank you for the suggestions.  Have a wonderful day.
+CHAT-BOT: You take care now, you hear!
+USER: You too! Goodbye
+CONVERSATION:40
+CHAT-BOT: Hi, what kind of movies do you like?
+USER: Hi, can you recommend a good romantic comedy?
+CHAT-BOT: Have you seen "Amadeus  (1984)" ? Let me think I watched "This Space Between Us (1999)" the other day
+USER: i actually haven't seen "Amadeus  (1984)"  but I hear F. Murray Abraham gives quite a performance.
+CHAT-BOT: "Blended  (2014)"  was really funny.
+USER: "Blended  (2014)", what is that about?
+CHAT-BOT: Abraham must be the villain.
+USER: Yeah, he was Salieri .
+CHAT-BOT: "Blended  (2014)"  has Adam Sandler and Drew Barrymore. It's about them meeting each other on an African vacation.
+USER: That might work, I loved them in "50 First Dates (2004)" .
+CHAT-BOT: I saw "Forgetting Sarah Marshall (2008)" a while back. I remember liking it. It was kind of the same vacation type setting but at the beach.
+USER: Cool, thanks for the suggestion. Have a great day.
+CHAT-BOT: You're welcome
+CONVERSATION:41
+CHAT-BOT: Hello!
+USER: hi
+CHAT-BOT: What do you like to watch?
+USER: i like fantasy movies like "Dragonslayer (1981)"
+CHAT-BOT: Oooh an oldy but a goody. Have you seen "Labyrinth  (1986)" with David Bowie?
+USER: yes that one is very good they dont make characters like that anymore
+CHAT-BOT: Well a good alternative is any of the "The Chronicles of Narnia " movies.
+USER: yes ive seen the first one and liked it but i havent seen the others
+CHAT-BOT: Also, you should check out "Stardust  (2007)" that was a suprise hit with my group when we went to see it.
+USER: really i think i missed that one
+CHAT-BOT: Then you should definitely try it. You won't be disappointed.
+USER: great thanks
+CHAT-BOT: That' fantastic. Good night!
+USER: night
+CONVERSATION:42
+USER: hello can you recommend a good suspense movie
+CHAT-BOT: OH a good suspense movie! sure can.
+USER: thanks
+CHAT-BOT: An oldie but goodie for me is "Swimfan (2002)" its about a girl who stalks the star swimmer at her high school. I have it on DVD and watch it here and there still lol
+USER: I havenn't seen that. sound good
+CHAT-BOT: Also, I loved "The Purge (2013)" and "The Purge: Election Year (2016)" . Those two movies had me on the edge of me seat. It gets kind of gore-y, but you never know whats going to happen next. Which always makes a good suspense movie
+USER: Those were really good movies too, iv seen both of them can you give me one more
+CHAT-BOT: sure! last year "Get Out (2017)" came out and that one is a nail bitter too!
+USER: I haven't seen that one, I'll have to check it out...thanks for the help goodbye
+CONVERSATION:43
+CHAT-BOT: Hello! What kind of movies are you looking for?
+USER: Hi! I'm looking for something in the noir genre.
+CHAT-BOT: Okay, if you like old ones, there is "The Maltese Falcon  (1941)" and "Touch of Evil (1958)"
+USER: I am a huge fan of both of those. "Chinatown  (1974)"  will always be a favorite as well.
+CHAT-BOT: Right on.  Have you seen "Nightcrawler  (2014)" ? That is a very dark movie.
+USER: It was definitely dark, but I did enjoy it. "Brick  (2005)" is a cooler twist on the noir film as well Have you seen it?
+CHAT-BOT: I haven't.  Have you seen "Drive  (2011)" ?
+USER: I haven't, but I've been meaning to check it out. Thanks for the suggestion!
+CHAT-BOT: You are welcome, I am sure you will enjoy it! Have a good one.
+USER: Same to you. Cheers!
+CONVERSATION:44
+CHAT-BOT: Hello !
+USER: Hi I am wanting to watch a good adventure movie
+CHAT-BOT: Ok, could you give me one you like and I can go from there!
+USER: I love all the "Star Wars" movies and "Pirates of the Caribbean" movies
+CHAT-BOT: I love those too. So, maybe something like "Star Trek Beyond (2016)" It is an adventure and sci-fi.
+USER: I liked that movie as well
+CHAT-BOT: Maybe something like "Stardust  (2007)" ?
+USER: I have not heard of that before what is that about
+CHAT-BOT: It is an adventure, something like "Pan  (1922)" but no Neverland.
+USER: I will have to watch that movie I might like that. Thank you
+CHAT-BOT: It is easy to find. A bit of romance too! Do you like romance too?
+USER: No but I might like that movie tho Thanks for all the help
+CHAT-BOT: Have a good day!
+USER: Thanks you too.
+CONVERSATION:45
+USER: hello, i'm looking for comedies like "When Harry Met Sally... (1989)" or "The Wedding Singer (1998)"
+CHAT-BOT: I love comedies too. Have you ever seen  "O Brother, Where Art Thou%3F (2000)"
+USER: no, but i heard good things about it
+CHAT-BOT: Or have you seen "Office Space (1999)"
+USER: i'll check that
+CHAT-BOT: I think you would really like "O Brother, Where Art Thou%3F (2000)" . It's one of my all time favorites!!
+USER: no i haven't seen that one either
+CHAT-BOT: "Office Space (1999)"  is a classic!
+USER: thank you for the suggestions have a great night goodbye
+CHAT-BOT: No problem! Good night!
+CONVERSATION:46
+CHAT-BOT: Hi
+USER: Hi
+CHAT-BOT: What types of movies do you like?
+USER: I'm looking for some really good horror movies. Something like "Saw  (2004)"  or "Hostel  (2011)" I like really gory movies!
+CHAT-BOT: The remake of "It  (2017)" was very good
+USER: Does it have a lot of gore?
+CHAT-BOT: Also "The Hills Have Eyes " Both have gore and a psychological component.
+USER: I haven't seen that movie in years. I think I liked it. It's the one where the family  gets lost in the hills right
+CHAT-BOT: Yes.
+USER: Ok Thanks for the recommendations
+CHAT-BOT: another good one might be "Don't Breathe (2016)" great Good Bye!
+USER: Thanks again for your help. Have a good night!
+CONVERSATION:47
+CHAT-BOT: Hello
+USER: Hi. Can you recommend me some action movies?
+CHAT-BOT: I recently saw "Black Panther (2018)" in the theater, it was great.  "Taken  (2008)", "Die Hard (1988)" and "The Matrix (1999)" are others I've really enjoyed
+USER: Those sound really interesting. What are your favorite comedies?
+CHAT-BOT: have you seen any of those action movies? I love "Bridesmaids  (2011)"
+USER: I have seen "Taken  (2008)" ! Really good one!
+CHAT-BOT: Well hopefully you get a chance to check out some of those other movies too, they're really good
+USER: Thanks for the recommendations! Bye!
+CHAT-BOT: hope i was of some help, bye!
+CONVERSATION:48
+USER: hello!!
+CHAT-BOT: Hi there, what sort of movies do you enjoy?
+USER: I like comedys like "Pitch Perfect 3 (2017)"  and "Bridesmaids  (2011)" any new good ones?
+CHAT-BOT: oh those are good choices. Have you ever seen "Mean Girls (2004)" ?
+USER: Yes! great one!
+CHAT-BOT: Another good one is "The Sweetest Thing (2002)"
+USER: my Favorite!!! "Love Actually (2003)"  was good
+CHAT-BOT: Oh, I am British, and that one is excellent!
+USER: yes!
+CHAT-BOT: Another good one is "The Holiday (2006)"
+USER: "Notting Hill "
+CHAT-BOT: great movies
+USER: "Holiday  (2006)"  was great!! great suggestions!
+CHAT-BOT: I hope I could be of help for you to make a choice!
+USER: hahahaa, I will watch them all! Thank you so much!
+CHAT-BOT: Enjoy your movie! Bye
+CONVERSATION:49
+CHAT-BOT: Hey what can I help you find today?
+USER: Hi how are you?
+CHAT-BOT: Good you?
+USER: I'm looking for a good sci fi movie, like "Ender's Game  (2013)" i'm doing good, looking for something to watch this weekend, maybe something I can find online
+CHAT-BOT: How about "Enemy Mine  (1985)", it's a little older but I've always enjoyed it
+USER: what's that about I also liked the "Divergent  (2014)" series
+CHAT-BOT: About a war in the future where a human and an alien get stranded and have to learn to get along to survive
+USER: that sounds good, kind of like "Avatar  (2009)" i'll check it out, I loved "Avatar  (2009)"
+CHAT-BOT: yeah
+USER: thanks for your help today
+CHAT-BOT: Your welcome have a good one enjoy the film
+CONVERSATION:50
+CHAT-BOT: Hello
+USER: hello!
+CHAT-BOT: what type of movies you like
+USER: I am looking for movie recommendations for romantic comedies
+CHAT-BOT: i would recommend "Pitch Perfect (2012)"
+USER: good one for sure!
+CHAT-BOT: it is about a girl who joins school's singing group the rest of the story revolves around her and other group membres members* pretty funny and enjoyable to watch
+USER: love that whole franchise.
+CHAT-BOT: and you should definitely see "La La Land  (2016)" it should be on top of you watchlist Emma Stone was perfect in it with Ryan Gosling
+USER: SO good!!!
+CHAT-BOT: humor and comedy all in musical performance you know what "The 40-Year-Old Virgin (2005)" very ridiculous title for the movie, but it is truly comical with Steve Carell playing
+USER: KELLY CLARKSON!!!!
+CHAT-BOT: also check out Just Go With It
+USER: "The 40-Year-Old Virgin (2005)" is such a classic for movie lines ha!
+CHAT-BOT: Everybody's loved Adam Sandler and Jennifer Aniston
+USER: i havent seen that one!
+CHAT-BOT: traditional humor is guaranteed comedy genre is a great to reduce some anxiety are we done?
+USER: yep! Thanks for the suggestions. goodnight
+CHAT-BOT: Bye
+CONVERSATION:51
+USER: Hello.
+CHAT-BOT: Hi what kind of movie would you like to watch
+USER: Is there a good recent action movie?
+CHAT-BOT: "Jumanji  (2017)" was pretty good better than I thought it was going to be
+USER: Is that a kid's movie? I still haven't seen "Star Wars: Episode VIII – The Last Jedi (2017)" . I'm looking forward to that.
+CHAT-BOT: no it is rated pg13 with Jack Black That movie was amazing
+USER: Maybe I'll give it a shot. I like Jack Black. Did you like "Kung Fu Panda (2008)" ?
+CHAT-BOT: "Kingsman: The Golden Circle" was good Yes I have seen that movie many times
+USER: I must respectfully disagree about "Kingsman: The Golden Circle" . It was very corny for me. "Blade Runner 2049 (2017)" was good imo.
+CHAT-BOT: "The Dark Tower  (2017)" is supposed to be good heard good things about it it's a sci-fi action movie
+USER: Yes. That was a very good book adaptation.
+CHAT-BOT: the "John Wick (2014)" movies were good
+USER: The action was fast-paced. Very basic, but entertaining. I guess I'll check out your suggestion. Have a nice day.
+CHAT-BOT: you too
+CONVERSATION:52
+CHAT-BOT: Hello there and good afternoon! What kind of movies do you like?
+USER: I love romance movies
+CHAT-BOT: Oh nice! One of my favorites is "Knocked Up (2007)"
+USER: That was so funny
+CHAT-BOT: I also really like "The Notebook (2004)" ... two very different ones! lol Another romantic movie that I really enjoyed from a while back is "Titanic  (1997)"
+USER: "The Lake House  (2006)" was one of my favorites
+CHAT-BOT: Oh I haven't ever seen that one! Thank you for the suggestion!
+USER: welcome, have a great day
+CHAT-BOT: You too! Goodbye!
+CONVERSATION:53
+CHAT-BOT: Hi there!
+USER: Hello!
+CHAT-BOT: What kind of movies are you looking for today?
+USER: I am looking for a good action movie. Something like "Die Hard (1988)" or "The Matrix (1999)"
+CHAT-BOT: Oh those are both awesome movies! Have you seen "Lethal Weapon (1987)"?
+USER: Oh yea, that's one of my favorites!
+CHAT-BOT: It's great! How about "True Lies (1994)"? That one is a good mix of comedy and action!
+USER: I haven't seen that one, but I love combinations like that. I will have to watch it, thank you for the advice!
+CHAT-BOT: It's fantastic, I hope you like it! Of course! Have a great night!
+USER: You too!
+CHAT-BOT: Bye!
+CONVERSATION:54
+USER: Well, hello there!
+CHAT-BOT: Hello, how are you?
+USER: I'm doing great. I just started listening to The Beatles recently and was looking for movies either starring the band or about them. I have seen "Yellow Submarine  (1968)".
+CHAT-BOT: I'm the perfect person to ask about this! I would highly recommend their movie "Help!  (1965)" They star in it, it contains many musical interjections, and very funny dialogue. Did you enjoy "Yellow Submarine  (1968)" ?
+USER: It was okay. A bit weird, but I enjoyed the music. I'll definitely have to check out "Help!  (1965)".
+CHAT-BOT: If you are looking for something less &quot;cheeky&quot; and more about the band themselves, I would recommend "The Beatles: Eight Days a Week"
+USER: Oh is that the documentary? I've been meaning to watch that.
+CHAT-BOT: Yes, Ron Howard produced it, so you KNOW it's got to be good!
+USER: Yes he's awesome! I loved "A Beautiful Mind  (2001)". Guess I'll be checking out "The Beatles: Eight Days a Week" later tonight. Thanks for the suggestion!
+CHAT-BOT: You're welcome! I hope you enjoy it!
+USER: Thank you. Have a good one!
+CONVERSATION:55
+CHAT-BOT: Hello!
+USER: Hi
+CHAT-BOT: What kind of movies are you looking for?
+USER: I like comedies.  Two of my favorites are "Dirty Grandpa (2016)" and "Grown Ups  (2010)".
+CHAT-BOT: Cool!  Have you seen "Dumb and Dumber (1994)" or "Tucker & Dale vs. Evil (2010)" ?
+USER: I have seen "Dumb and Dumber To (2014)" but I haven't seen "Tucker & Dale vs. Evil (2010)".  How is it?
+CHAT-BOT: Oh, it is great!  It didn't receive much attention when it came out, but it has developed quite a cult following Its great, you should like it
+USER: Cool, I will have to try it. Thanks for your help.
+CHAT-BOT: Yep, have a good one.
+USER: Bye
+CONVERSATION:56
+CHAT-BOT: hi!!! how may I help
+USER: hi, can you suggest a good drama?
+CHAT-BOT: Sure!
+USER: Something like "One Flew Over the Cuckoo's Nest  (1975)" I liked that one
+CHAT-BOT: oh wow! that is way back ok let me think
+USER: yes it is, I like how those movies were filmed
+CHAT-BOT: me too! "As Good as It Gets (1997)" was great!
+USER: adding to my list!
+CHAT-BOT: "A Beautiful Mind  (2001)"
+USER: "Pulp Fiction (1994)"  is one that I didn't watch until recently
+CHAT-BOT: one of my favorites! Have you seen "Kill Bill: Volume 1 (2003)"
+USER: Yes, ruthless
+CHAT-BOT: right!
+USER: I think there were multiple parts.. Good suggestion, i'll go woth Uma
+CHAT-BOT: "Good Will Hunting (1997)"
+USER: Matt Damon?
+CHAT-BOT: Hey what about "Atomic Blonde (2017)"     yes Matt Damon
+USER: Never heard of that! Thanks so much have a good night
+CHAT-BOT: you are welcome!! have a great night! bye!
+CONVERSATION:57
+USER: Hi, I'm looking for a good comedy Seen any lately?
+CHAT-BOT: Hello. What king of movies do you like?
+USER: I like classic ones like "Caddyshack (1980)"
+CHAT-BOT: Ah
+USER: And "Ghostbusters (1984)" Or "Stripes  (1981)"
+CHAT-BOT: I like classics, like from the 30s. LOL
+USER: what would you recommend ?
+CHAT-BOT: Have you seen "Ghostbusters  (2016)" ?
+USER: No, I'll have to check it out
+CHAT-BOT: I hear it's good.
+USER: Okay, thanks for the reco Have a nice day
+CONVERSATION:58
+CHAT-BOT: good morning hope you are doing well. what can I try and help you find for a movie?
+USER: Um how about a good recent documentary?
+CHAT-BOT: well I Think you might like the "The Queen  (2012)" true story about queen Elizabeth is that what you are looking for?
+USER: Yeah sounds good. I just watched "Man on Wire (2008)" , have you seen that? great documentary
+CHAT-BOT: No, I dont think so.
+USER: It's real good about a guy that walks a tight rope between the twin towers
+CHAT-BOT: do you like one about animals or military
+USER: animals!
+CHAT-BOT: "Pandas (2018)" was a good one.
+USER: I really like the remake of "The Jungle Book  (2016)" I'll have to check out Pandas Anyways goodbye!
+CONVERSATION:59
+USER: Hello
+CHAT-BOT: Hi. I heard you were looking for a movie. What do you like to watch?
+USER: Have you seen any good scary or suspenseful films recently? I saw "1922 " on Netflix and now I'm interested in Stephen King type movies
+CHAT-BOT: I really like "Abduction  (2011)" Hmm. Well, there is "Hannibal  (2001)"
+USER: Oh, I haven't seen "Abduction  (2011)" Thank you I do like "Hannibal  (2001)" I with the tv series would have continued
+CHAT-BOT: Some people also really like "Signs  (2008)" with Mel Gibson
+USER: I enjoyed that as well.  And "The Visit  (2015)"
+CHAT-BOT: Some people like "Panic Room (2002)"
+USER: I'll check out "Abduction  (2011)" I really liked "Panic Room (2002)" Maybe I'll re-watch that too
+CHAT-BOT: Ok. Glad you like the suggestions Hope you enjoy watching
+USER: Have a wonderful day Goodbye
+CHAT-BOT: You too. Bye!
+CONVERSATION:60
+CHAT-BOT: Hi Are you looking for a good movie?
+USER: Hey there Yes I am looking for a horror movie.  Something like "The Evil Dead (1981)" or maybe "Tucker & Dale vs. Evil (2010)" ?
+CHAT-BOT: How about "Hannibal  (2001)" or "The Silence of the Lambs  (1991)"
+USER: I've seen both of those and they were great!
+CHAT-BOT: How about "Signs  (2008)"
+USER: "Signs  (2008)" was great as well :)
+CHAT-BOT: Have you seen "The Birds  (1963)" Oldie, but a goodie
+USER: I have not. I've heard about it but haven't had a chance to watch it yet.
+CHAT-BOT: It is a great one. Alfred Hitchcock
+USER: I will have to check that out. Thank you very much!
+CONVERSATION:61
+USER: Hey! Hope the day is going well. Do you know a good movie to watch right now?
+CHAT-BOT: Hey do you like good comedies because "That's My Boy  (2012)" with dam Sandler was a bit crude but pretty funny
+USER: I loved watching the "Pirates of the Caribbean: At World's End (2007)" movies I hope they keep that franchise open
+CHAT-BOT: Those were great did you see "The Lord of the Rings " or "The Hobbit "
+USER: I've never seen "That's My Boy  (2012)" i heard its with Adam Sandler though I think I may end up going with "That's My Boy  (2012)" tonight THank you so much for your help today. I did not see the other two either, but i really never cared
+CHAT-BOT: Your welcome Bye
+CONVERSATION:62
+USER: Heya How you doing?
+CHAT-BOT: Hello, I'm good. What kind of movies do you like?
+USER: I like most things besides scifi. I really like thriller, drama. Stuff like "What Lies Beneath (2000)" and "Mystic River  (2003)"
+CHAT-BOT: Hmm... I'm not really a fan of thrillers, so I don't know any, but I do like dramas. Have you seen "Extremely Loud and Incredibly Close  (2011)"?
+USER: Wow, yes I did. THat was so different than I thought it would be. It was great though Yeah any drama suggestions are great or even mysteries Did you ever see "The Last Boy Scout (1991)" with Bruce Willis? That's one of my favorites
+CHAT-BOT: No, I haven't seen that one. Have you seen "One Hour Photo (2002)"?
+USER: Haha I did! Robin Williams is so good in that! And also in "The Final Cut  (2004)" I wasn't a fan of "Patch Adams  (1998)" though. broke my heart
+CHAT-BOT: I know. That one made me sad, too.
+USER: I do like comedies too if you'd rather suggest that
+CHAT-BOT: Yeah, I'm more into older movies, so it's hard for me to come up with recent films. What about "Young Frankenstein (1974)"?
+USER: I don't think I have ever seen that. Just a few clips here and there. And when I hear Puttin on the ritz I think of it haha I will try that one out!
+CHAT-BOT: It's definitely hilarious! That and "Blazing Saddles (1974)" are my favorite comedies.
+USER: I do love that one! I like older movies too. I need to get caught up with the newer stuff Thanks for your help! Have a good night
+CHAT-BOT: You too
+CONVERSATION:63
+CHAT-BOT: hello
+USER: Can you give me any movie sugestions?
+CHAT-BOT: tell me what kind of movies do you like?
+USER: I like comedy movies
+CHAT-BOT: i would recommend you "Click  (2006)"  it is very funny i also would recommend you "You Don't Mess with the Zohan (2008)"
+USER: I liked "Click  (2006)" I thought it was pretty good.
+CHAT-BOT: those are really funny, have you seen them? have you seen "American Pie  (1999)" ?
+USER: I havent seen "You Don't Mess with the Zohan (2008)" what it about?
+CHAT-BOT: or "Scary Movie (2000)" it is a movie mady by Adan Sandle
+USER: I liked those movies I thought they were pretty good
+CHAT-BOT: it is pretty funny you know almost all the movie he has done are very funny
+USER: Yeah I love how he acts
+CHAT-BOT: hahahaa, those are old movies but if you see them again you laugh so much
+USER: I think I will watch "You Don't Mess with the Zohan (2008)"  sounds interesting
+CHAT-BOT: i hope i have helped have a good evening
+USER: and maybe rewatch the others thanks bye
+CHAT-BOT: enjoy your evening bye
+CONVERSATION:64
+CHAT-BOT: Hi!
+USER: Morning!
+CHAT-BOT: What movie are you looking for today?
+USER: Would you be able to recommend any good family movies. Something similar to "The Sandlot (1993)" Preferable movies  that are not animated. My boys are a little older.
+CHAT-BOT: "Bad News Bears (2005)" was a good one
+USER: We  have watched that movie before and the boys really enjoyed it. Have you by chance seen the new marvel movie? "Thor: Ragnarok (2017)" ?
+CHAT-BOT: I have not but I have heard good things!
+USER: My boys loved "The Avengers  (2012)"  so I waws thinking itwould be a good fit.
+CHAT-BOT: "Black Panther (2018)" is suppsoed to be good too
+USER: I forgot all about that movie. Any movies that you have seen personally?
+CHAT-BOT: i just saw "Guardians of the Galaxy Vol. 2 (2017)" love it
+USER: THanks for the recommendations! My boys have a list to choose from for family night!
+CHAT-BOT: you're welcome!
+USER: Thanks again have a great day!
+CONVERSATION:65
+CHAT-BOT: Hi! What type of movie are you looking for?
+USER: Morning. Could you recommend any good thrillers? I like dark thrillers like "The Last House on the Left  (2009)"
+CHAT-BOT: have you seen "Get Out (2017)" ?
+USER: Or "Seven  (1995)" with Brad Pitt. I watched that one with my friends and we loved the suprise!
+CHAT-BOT: those are great ones
+USER: It was really good.
+CHAT-BOT: "Memento  (2000)" was so good too
+USER: I haven seen that movie but I heard really good things. Do you know who stars in that movie?
+CHAT-BOT: guy pearce its so good
+USER: I have to watch the trailer because everyone keeps telling me about it.
+CHAT-BOT: hopefully those work for you! have a good day!
+USER: Thanks for all your help!
+CONVERSATION:66
+CHAT-BOT: Hi.
+USER: hello
+CHAT-BOT: What kind of movies do you like?
+USER: I am looking for a comedy, anything with Sandra Bullock such as "The Heat  (2013)"
+CHAT-BOT: Have you seen "The Proposal  (2009)" ?
+USER: yes, i loved it
+CHAT-BOT: Or "Miss Congeniality  (2000)" ?
+USER: that was so funny
+CHAT-BOT: Have you seen "Miss Congeniality 2: Armed and Fabulous (2005)" ?
+USER: yes, it was great I loved her in that one
+CHAT-BOT: What about "Practical Magic (1998)" Or "28 Days  (2000)" ?  More of a Drama with some comedy
+USER: that one was really good you are naming all of my favorites lol
+CHAT-BOT: "While You Were Sleeping  (1995)" is also good
+USER: Oh yes, I forgot about that one! thank you for all of your help, have a great day!
+CHAT-BOT: Thanks Bye
+CONVERSATION:67
+CHAT-BOT: Hello!
+USER: hi
+CHAT-BOT: Can I help you find a movie?
+USER: did you watch any good movies recently ? I am looking for new movies
+CHAT-BOT: I saw "A Wrinkle in Time ", and I liked it. I had read the book as a kid. Do you want something in the theater now? Do you have a favorite actor or genre?
+USER: either one I love Tom Hanks and will smith also Casey affleck I thik the name "A Wrinkle in Time " sounds good
+CHAT-BOT: The "Men in Black  (1997)" movie is good. It has will smith, and there are several in the series.
+USER: I already watched it, funny one
+CHAT-BOT: Did you see "Men in Black 3 (2012)"?
+USER: did you watch "Captain Phillips  (2013)" I didn't , is it good as the first one?
+CHAT-BOT: The reviews were mediocre.
+USER: ok, I will consider watching it thanks have a great day
+CHAT-BOT: I never saw "Captain Phillips  (2013)". Bye.
+USER: it is great , you should watch it bye
+CONVERSATION:68
+CHAT-BOT: Hello, Can I help you find a movie?
+USER: Hello!  I would like to find a suspenseful, but clean family friendly movie.
+CHAT-BOT: You might like "The Illusionist  (2006)" it is pg-13 however
+USER: We have not seen that.  We enjoyed "Star Wars: Episode VIII – The Last Jedi (2017)"
+CHAT-BOT: you could also try "2001: A Space Odyssey  (1968)" for something G Rated
+USER: We have not seen that one either.  Is it good?
+CHAT-BOT: If you like "Star Wars  (1977)"  you mind find it enjoyable
+USER: "2001: A Space Odyssey  (1968)" might be a great option.  Anything else that you would suggest?
+CHAT-BOT: You can try "Planet of the Apes  (1968)" the older one is quite suspenseful and family friendly.
+USER: Those sound good!  I'm going to look into those movies.
+CHAT-BOT: I hope you enjoy, have a nice one.
+USER: Thank you for your help!  Have a great night!  Good bye
+CONVERSATION:69
+USER: Hello Can you suggest some movies please. A movie you like. Have you seen "Evil Dead  (2013)"
+CHAT-BOT: "The Dark Knight  (2008)" I guess cuz its night time
+USER:
+CHAT-BOT: No I don't think so.
+USER: Have you seen "Evil Dead  (2013)" Oh sorry I asked that already I liked the Batman movies What do you think of the "Paranormal Activity (2007)" movies
+CHAT-BOT: yeah they're hit/miss :/ I liked the first
+USER: suggest a movie for me then.
+CHAT-BOT: Oh.. "Redrum – A tale of Murder"
+USER: I have not seen that one. I will look it up. Thanks Bye
+CHAT-BOT: Welcome bye
+CONVERSATION:70
+CHAT-BOT: Hello.
+USER: hi
+CHAT-BOT: What type of movie can I suggest to you?
+USER: I am looking for a slap stick comedy from the 80's or 90's
+CHAT-BOT: Not familiar with this, please give me a minute.
+USER: okay movies  like "Airplane! (1980)" and "Airplane II: The Sequel (1982)"
+CHAT-BOT: Oh, okay. I saw those and thought they were great. Did you see "Caddyshack (1980)" or "Dumb and Dumber (1994)"?
+USER: yes, those were pretty good
+CHAT-BOT: How about "Spaceballs (1987)", I thought this was pretty funny.
+USER: haha that one was great
+CHAT-BOT: Okay, let' me see if I can offer one more.
+USER: awesome
+CHAT-BOT: "Robin Hood: Men in Tights (1993)"? This one had me rolling.
+USER: haha I forgot about that one! I'll be watching that one tonight
+CHAT-BOT: Great.
+USER: thanks for all of your help I hope you have a great day
+CHAT-BOT: Welcome, glad to help. Have a nice day. Good bye

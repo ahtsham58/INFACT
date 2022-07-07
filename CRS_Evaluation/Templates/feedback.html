@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+    <title>Chat-bot Study</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/f5b2466bb2.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</head>
+
+<body class="text-cWrite" style="background:#89b0b3;">
+ <header>
+      <div class="navbar navbar-dark bg-dark box-shadow">
+        <div class="container d-flex justify-content-between">
+          <a href="#" class="navbar-brand d-flex align-items-cWrite">
+
+          </a>
+        </div>
+      </div>
+ </header>
+
+
+
+ <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+
+    <main role="main" class="inner cover">
+
+        <div class="container">
+             <div class="col-12" >
+                <div class="col-4" style="text-align:cWrite; color:white; margin: 0 auto; " >
+                        <h2> You are almost done! </h2>
+                </div>
+                <div class="col-4" style="text-align:cWrite; color:white; margin: 0 auto;" >
+
+                </div>
+                 <hr/>
+            </div>
+            <div class="col-12">
+                <form class="form-inline" method="POST" action="confirmation.html" id="form_feedback">
+                    <div class="col-12" class="form-group">
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:30px;width:100%">
+                                <div class="col-6" style="text-align:right ">
+                                  <label style="margin-top:0px;color:white; clear:both;float:right;"><b>I found the presented dialogs natural.  </b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="dlg_initiation" id="dlg_initiation">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Strongly disagree">Strongly disagree</option>
+                                            <option value="Disagree">Disagree</option>
+                                            <option value="Neutral">Neutral</option>
+                                             <option value="Agree">Agree</option>
+                                            <option value="Strongly agree">Strongly agree</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+                         <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:30px;width:100%">
+                                <div class="col-6" style="text-align:right ">
+                                  <label style="margin-top:0px;color:white; clear:both;float:right;"><b>The presented dialog situations look realistic.</b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="dlg_realistic" id="dlg_realistic">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Strongly disagree">Strongly disagree</option>
+                                            <option value="Disagree">Disagree</option>
+                                            <option value="Neutral">Neutral</option>
+                                             <option value="Agree">Agree</option>
+                                            <option value="Strongly agree">Strongly agree</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:30px;width:100%">
+                                <div class="col-6" style="text-align:right ">
+                                  <label style="margin-top:0px;color:white; clear:both;float:right;"><b>I could imagine that such dialogs also happen between humans.</b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="dlg_humans" id="dlg_humans">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Strongly disagree">Strongly disagree</option>
+                                            <option value="Disagree">Disagree</option>
+                                            <option value="Neutral">Neutral</option>
+                                             <option value="Agree">Agree</option>
+                                            <option value="Strongly agree">Strongly agree</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:30px;width:100%">
+                                <div class="col-6" style="text-align:right ">
+                                  <label style="margin-top:0px;color:white; clear:both;float:right;"><b>Considering only the best responses found in each dialog, I would find the chat-bot useful.</b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="chatbot_useful" id="chatbot_useful">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Strongly disagree">Strongly disagree</option>
+                                            <option value="Disagree">Disagree</option>
+                                            <option value="Neutral">Neutral</option>
+                                             <option value="Agree">Agree</option>
+                                            <option value="Strongly agree">Strongly agree</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:30px;width:100%">
+                                <div class="col-6" style="text-align:right ">
+                                  <label style="margin-top:0px;color:white; clear:both;float:right;"><b>Considering only the best responses found in each dialog, I would probably use such a movie recommendation chat-bot in the future.</b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="crs_usuage" id="crs_usuage">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Strongly disagree">Strongly disagree</option>
+                                            <option value="Disagree">Disagree</option>
+                                            <option value="Neutral">Neutral</option>
+                                            <option value="Agree">Agree</option>
+                                            <option value="Strongly agree">Strongly agree</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+
+
+                        <div class="col-12" style="margin-top:30px; width:100%">
+                            <div class="row" style="margin-top:30px;width:100%">
+                                <div class="col-6" style="text-align:right ">
+                                  <label style="margin-top:0px;color:white; clear:both;float:right;"><b>I am answering these questions carefully and select the last option here. </b></label>
+                                </div>
+                                <div class="col-6" style="text-align:left ">
+                                    <div style="margin-left:0px;margin-top:10px">
+                                        <select class="browser-default custom-select" required="true" name="attention_hit" id="attention_hit">
+                                            <option  value="" selected>Select</option>
+                                            <option value="Completely dissatisfied">Completely dissatisfied</option>
+                                            <option value="Dissatisfied">Dissatisfied</option>
+                                            <option value="Neutral">Neutral</option>
+                                            <option value="Somewhat satisfied">Somewhat satisfied</option>
+                                            <option value="Completely satisfied">Completely satisfied</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                         </div>
+
+                        <div class="col-12">
+                                <div   class="row" class="col-12" style="margin-top:30px; width:100%">
+                                    <div class="col-6" style="text-align:right;">
+                                      <label  style="margin-top:10px; color:white; clear:both;float:right;"><b>Remarks, suggestions, comments.</b></label>
+                                    </div>
+                                    <div class="col-6">
+                                          <textarea  id="remarks" name="remarks"  class="form-control"  style="min-width: 100%;text-align:left; overflow:hidden" ></textarea>
+                                    </div>
+                                    </div>
+                            </div>
+
+                    <div class="col-12">
+                            <div class="row" style="margin-top:30px;">
+                                <div class="col-0">
+                                </div>
+                                <div class="col-7">
+                                </div>
+                                <div class="col-3">
+                                    <div class="row" style="margin-top:0px; margin-left:10px;">
+                                        {% csrf_token %}
+                                          <div class=" ">
+                                               <button type="submit" class="btn btn-success" data-toggle="modal" data-target="#myModal" onclick=""> Finish
+                                                    <i class="fas submit"></i>
+                                               </button>
+                                            </div>
+
+                                     </div>
+                                </div>
+
+                            </div>
+                       </div>
+                    </div>
+                  </form>
+
+
+
+            </div>
+        </div>
+    </main>
+<br>
+<br>
+
+</div>
+
+
+
+<script>
+function form_submit() {
+const colors = [
+    '125468',
+    '89754',
+    '658427',
+    '224896',
+    '613459'
+];
+    $(document).ready(function(){
+        echo(randomColor(colors));
+		$("#myModal").modal('show');
+		document.getElementById('hitcode').innerHTML = 'Hi, I am Arun Banik';
+	});
+    }
+function click_ok() {
+    window.location ="/"
+    }
+
+function randomColor(colors) {
+   return colors[Math.floor(Math.random() * colors.length)];
+}
+
+</script>
+
+
+<style type="text/css">
+/* Split the screen in half */
+
+
+/* If you want the content cWriteed horizontally and vertically */
+.cWriteed {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+}
+
+/* Style the image inside the cWriteed container, if needed */
+.cWriteed img {
+  width: 150px;
+  border-radius: 50%;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 4px solid rgba(227, 53, 9);
+}
+html, body, #container {
+    height: 100%;
+}
+
+  </style>
+
+
+
+
+
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+</body>
+
+</html>

@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en" xmlns:width="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+   <!-- <link rel="icon" href="/docs/4.4/assets/img/favicons/favicon.ico"> -->
+    <title>Chat-bot Study</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/f5b2466bb2.js" crossorigin="anonymous"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.8.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.8.0/firebase-firestore.js"></script>
+
+</head>
+
+<body class="text-center" style="background:#89b0b3; color:white">
+ <header>
+      <div class="navbar navbar-dark bg-dark box-shadow">
+        <div class="container d-flex justify-content-between">
+          <a href="#" class="navbar-brand d-flex align-items-center">
+
+          </a>
+        </div>
+      </div>
+ </header>
+<div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+<div style= ""></div>
+
+    <main role="main" class="inner cover" >
+
+        <div class="row" style="background:#0e425e" >
+            <div class="col-2">
+
+            </div>
+            <div class="col-8" >
+                <h1 class="cover-heading" style="height: 60%;width:100%;display:flex;align-items: center;justify-content: center;">INFACT</h1>
+                 <hr/>
+            </div>
+
+            <div class="col-2">
+
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-3">
+
+            </div>
+            <div class="col-6">
+                <h2 class="cover-heading" style="text-align:left; margin-left: 5; ">Overview</h2>
+            </div>
+            <div class="col-3">
+
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-3">
+
+            </div>
+
+             <div class="col-6" style="background-color:#076166; font-size: 18px;  height:100%;text-align:left;  overflow:auto">
+                <p style="margin:10px;" >
+                    In this study, we aim to evaluate chat-bot systems that provide movie recommendations based on user preferences.
+                    <br>
+                    <br>
+                    Our specific goal here is to <b>compare three chat-bots</b>. To that purpose, we will show you dialog situations where a user interacts with the chat-bot. The shown dialogs ends at a point where the chat-bot should respond to the last sentence by the user.
+                    <br>
+                    Your task is to rate each of these alternatives in terms of their meaningfulness and quality.
+                </p>
+            </div>
+            <div class="col-3">
+
+            </div>
+
+        </div>
+
+        <br>
+
+        <div class="row">
+            <div class="col-3">
+
+            </div>
+            <div class="col-6">
+                <h2 class="cover-heading" style="text-align:left; margin-left: 5; ">Procedure & Instructions</h2>
+            </div>
+            <div class="col-3">
+
+            </div>
+
+        </div>
+
+         <div class="row">
+            <div class="col-3">
+
+            </div>
+            <div class="col-6" style="background-color:#076166; font-size: 18px;  height:100%;text-align:left; margin:0px; overflow:auto">
+                <p style="background-color:#; ">
+                    <ol>
+                        <li>Please inspect the <a href="terms.html" target="_blank">Terms and Conditions</a></li>
+                        <li>Once you start the procedure, We will then show you three possible responses by the chat-bots for the last user statement.</li>
+                        <li>Your task is to rate each of these responses on the given scale from “Entirely meaningless” to “Perfectly Meaningful”.</li>
+
+                        <li>Please rate each response individually; it is perfectly fine if two or all three responses receive the same rating.</li>
+                        <li> When is a response meaningful?
+                            <dd>(a) &nbsp;   A response should be a logical by the chat-bot, e.g., the chat-bot should make a recommendation when the user asks for one.</dd>
+                            <dd>(b) &nbsp;  If a recommendation is made by the chat-bot, it has to match the user’s stated preferences. If, for example, a user is looking for an funny movie, mostly funny movie recommendations are meaningful. Please make this assessment based on your knowledge about the mentioned movies. You may always look up services like <a href="https://www.imdb.com/" target="_blank">IMDb</a> to check, e.g., the movie genres and plots. Note that movie titles are shown in quotes " " in the dialogs.</dd>
+                            <dd>(c) &nbsp;  If the chat-bot response is <b> not</b> a movie recommendation, you are supposed to rate the meaningfulness of the response as a reply to the user’s last statement keeping in mind the context of the dialog situation.</dd>
+                        </li>
+
+                        <li>Once you have rated all three chat-bot responses, click on “Submit ratings” to repeat the task for the next dialog situation. We will show you 10 such dialog situations.</li>
+                        <li>To start the study, please confirm read the terms and conditions using the checkbox and click on “Start Procedure”.</li>
+                        <br>
+                        Please read point 5 again.
+                        <br>
+                        There you go...
+                    </ol>
+                </p>
+            </div>
+            <div class="col-3">
+
+            </div>
+
+        </div>
+ <br>
+        <br>
+        <div class="container">
+            <div class="row">
+                <div class="col-2">
+                </div>
+                <div class="col-8" >
+                    <form class="form-inline" method="POST" action="ratings.html" onsubmit="return checkForm(this);">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <p> I have understood the instructions and agree with the Terms and Conditions</p>
+                            <input type="checkbox" id="readit" required  name="readit" style=" width: 25px; height: 25px; margin-bottom:12px;margin-left:12px; padding-bottom:30px">
+                        </div>
+
+
+
+                    <div class="col-4"> <button type="submit" style="margin-left: 0px" class="btn btn-outline-primary">Start Procedure <i
+                                class="fas submit"></i></button>
+                    </div>
+                        </form>
+                </div>
+
+            </div>
+             <div class="border border-white" style="margin-top:150px">
+                </div>
+        </div>
+        <script>
+
+        </script>
+
+    </main>
+
+    <footer class="mastfoot mt-auto">
+        <div class="inner" >
+        <a href="/terms.html" target="_blank" >Terms and Conditions </a>
+
+        </div>
+    </footer>
+</div>
+
+<style type="text/css">
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 4px solid rgba(227, 53, 9);
+}
+img {
+  display: block;
+  max-width:700px;
+  max-height:200px;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+  align:center
+}
+  </style>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+</body>
+</html>
