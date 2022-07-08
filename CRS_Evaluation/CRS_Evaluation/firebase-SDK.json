@@ -1,3 +1,5 @@
+# The values are dummy here, you need to add actual values for you realtime database created on Firebase
+
 {
   "type": "service_account",
   "project_id": "infact",
