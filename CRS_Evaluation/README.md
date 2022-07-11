@@ -67,4 +67,4 @@ In addition, at this root directory, we have more files, like
 
 # Trick of the Day ![..](octocat.png)
 
-First, run the project with default settings and data successfully, and then modify it.
+_**First, run the project with default settings and data successfully, and then modify it.**_
