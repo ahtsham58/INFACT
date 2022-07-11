@@ -65,5 +65,5 @@ In addition, at this root directory, we have more files, like
 2. 'manage.py' is the very first point where application starts its execution either it is hosted on the localhost or server.
 
 
-![Trick of the Daya](https://giphy.com/gifs/halloween-pumpkin-trick-or-treat-Z0K7Mv4z2thA1vPNBB)
+![Trick of the Daya](octocat.png)
 
