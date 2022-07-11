@@ -32,7 +32,7 @@ In this directory, we have evaluation data for dialogs to be assessed and their 
 ### Evaluation Data Preparation
 1. First, separate each conversation with the tag "CONVERSATION:#", where # represents the sequential number of the conversation in the file, for example "CONVERSATION:1". Same convention has to be followed in all the files under Resources directory.
 
-2. For all the baselines, that are used for the comparison, generate the dialogs in a way that a (newly generated) system-response follow a GROUND-TRUTH response. See for example, 
+2. For all the baselines, that are used for the comparison, generate the dialogs in a way that a (newly generated) system-response **always** follow a GROUND-TRUTH response. See for example, 
 
 ```bash
 CONVERSATION:1
@@ -44,7 +44,7 @@ GROUND TRUTH: <s> Well one that I found to be quite a bit like it was "The Patri
 have you seen "Troy  (2004)" ?
 ```
 
-3. Similarly, for your own developed (e.g., our) system, newly generated system response always follow SEEKER utterance. See for example, 
+3. Similarly, for your own developed (e.g., our) system, newly generated system response **always** follow SEEKER utterance. See for example, 
 
 ```bash
 CONVERSATION:1
