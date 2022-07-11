@@ -16,7 +16,7 @@
  ## Parser_logic
  In this directory, we have mianly three files that are important to know.
 
-1. The file named 'Dialogue_Parsing.py' contains code for the: (i) selection and computation of dialog situation size on loading the rating page. Basically, the dialog situation is fetched from the file containing conversations form the test set of the ReDial dataset (ii) retrieve their corresponding responses from the files containing  dialogs and responses generated with different CRS, for example in this case, we have KBRD, KGSF, CRB-CRS.
+1. The file named 'Dialogue_Parsing.py' contains code for the: (i) selection and computation of dialog situation size on loading the rating page. Basically, the dialog situation is fetched from the file containing conversations from the test set of the ReDial dataset (ii) retrieve their corresponding responses from the files containing  dialogs and responses generated with different CRS, for example in this case, we have KBRD, KGSF, CRB-CRS.
 
 2. The file named 'views.py' contains the views for each template page shown to the user, e.g., index.html, ratings.html, etc.
 
@@ -28,6 +28,32 @@ In this directory, we have evaluation data for dialogs to be assessed and their 
 1. The file named 'dialogue_data.txt' contains dialogs betweens a human-user and recommender collected in the context of the ReDial dataset.
 
 2. The remaining files contain the conversations along with their systen generated responses produced using a specific CRS as a baseline, like KBRD, KGSF, etc. 
+
+### Evaluation Data Preparation
+1. First, separate each conversation with the tag "CONVERSATION:#", where # represents the sequential number of the conversation in the file, for example "CONVERSATION:1". Same convention has to be followed in all the files under Resources directory.
+
+2. For all the baselines, that are used for the comparison, generate the dialogs in a way that a (newly generated) system-response follow a GROUND-TRUTH response. See for example, 
+
+```bash
+CONVERSATION:1
+SEEKER: <s> Hello, </s> 
+GROUND TRUTH: <s> How are you today... What kind of movies are you looking for </s> 
+hi , how are you ?
+SEEKER: <s> am looking for a movie a lot like "Braveheart (1995)" do you have any suggestions? </s> 
+GROUND TRUTH: <s> Well one that I found to be quite a bit like it was "The Patriot  (2000)" </s> 
+have you seen "Troy  (2004)" ?
+```
+
+3. Similarly, for your own developed (e.g., our) system, newly generated system response always follow SEEKER utterance. See for example, 
+
+```bash
+CONVERSATION:1
+SEEKER: <s> Hello, </s>
+hi how are you
+GROUND TRUTH: <s> How are you today... What kind of movies are you looking for </s>
+SEEKER: <s> am looking for a movie a lot like "Braveheart(1995)" do you have any suggestions? </s>
+Sure. Have you seen "Forrest Gump (1994)" ?
+```
 
 ## Templates
 In this directory, we have html/css scripts for all the web-pages used in the application.
