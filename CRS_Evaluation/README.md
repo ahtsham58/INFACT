@@ -65,5 +65,6 @@ In addition, at this root directory, we have more files, like
 2. 'manage.py' is the very first point where application starts its execution either it is hosted on the localhost or server.
 
 
-![Trick of the Daya](octocat.png)
+# Trick of the Day ![..](octocat.png)
 
+First, run the project with default settings and data successfully, and then modify it.
