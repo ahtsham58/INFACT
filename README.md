@@ -1,4 +1,4 @@
-# INFACT: An Online User Evaluation Framework for Conversational Recommendation
+# INFACT: An Online Human Evaluation Framework for Conversational Recommendation
 
 This repository contains complete source code of the INFACT framework, which is developed to facilitate the user-centric evaluation studies of dialog systems, conversational recommender systems, and related domains.
 
