@@ -37,6 +37,11 @@ Once your localhost server is ready, hit this [URL]( http://127.0.0.1:8000/ ) in
 ```bash
  http://127.0.0.1:8000/
 ```
+
+## How to parse the JSON data collected with this study?
+
+The Python script named 'Parse_study_data.py' can be used to parse the complete data into MS excel sheets.
+
 ## Helpful links
 You may have a look at the below links in case of abbration in activating the virtual environment
 
