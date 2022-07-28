@@ -41,7 +41,9 @@ Once your localhost server is ready, hit this [URL]( http://127.0.0.1:8000/ ) in
 ## How to parse the JSON data collected with this study?
 
 The Python script named _**'Parse_study_data.py'**_ can be used to parse the complete data into MS excel sheets.
+
 INPUT: JSON study data
+
 OUTPUT: Separate excel sheets for valid, invalid rating scores, demographic, and feedback questionnaires.
 
 ## Helpful links
