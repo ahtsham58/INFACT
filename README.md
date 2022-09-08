@@ -55,3 +55,17 @@ You may have a look at the below links in case of abbration in activating the vi
 
 [Create a virtual environment in PyCharm terminal](https://www.codegrepper.com/code-examples/shell/create+a+virtual+environment+python+pycharm)
 
+
+
+## **Citation**
+```
+@InProceedings{manzoor2022infact,
+  title={INFACT: An Online Human Evaluation Framework for Conversational Recommendation},
+  author={Manzoor, Ahtsham and Jannach, Dietmar},
+  booktitle={KaRS Workshop at RecSys '22},
+  address = {Seattle, USA},
+  year={2022},
+  keywords = {Conversational Recommender Systems, user-centric studies, evaluation, dialog systems},
+}
+```
+
