@@ -9,7 +9,7 @@ Basically, To run the project on localhost, first you need to create and activat
 ```bash
 cd CRS_Evaluation
 python3 -m pip install --upgrade pip
-pip3 install requirements.txt
+pip3 install requirement.txt
 pip3 install virtualenv
 ```
 To verify the installation of virtual environment library, use
